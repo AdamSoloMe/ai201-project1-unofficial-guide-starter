@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer
 
 DOCUMENTS_DIR = "documents"
 CHROMA_DIR = "chroma_db"
-COLLECTION_NAME = "berserk"
+COLLECTION_NAME = "qc_professors"
 CHUNK_SIZE = 400      # characters — sized for 1–3 short reviews per chunk
 CHUNK_OVERLAP = 50    # characters
 
@@ -106,7 +106,10 @@ def main():
         client.delete_collection(COLLECTION_NAME)
     except Exception:
         pass
-    collection = client.create_collection(COLLECTION_NAME)
+    collection = client.create_collection(
+        COLLECTION_NAME,
+        metadata={"hnsw:space": "cosine"},
+    )
 
     all_chunks = []
     all_ids = []

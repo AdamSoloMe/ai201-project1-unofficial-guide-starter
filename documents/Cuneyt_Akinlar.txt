@@ -11,7 +11,7 @@ Number of Ratings: 39
 
 --- Student Reviews ---
 
-Course: CSCI111 | Date: 2026-02-19 | Rating: 5/5 | Difficulty: 1/5 | Grade: B+ | Would take again: Yes
+Course: CSCI111 | Date: 2026-02-19 h Rating: 5/5 | Difficulty: 1/5 | Grade: B+ | Would take again: Yes
 "Akinlar is amazing, he sets you up for success and provides you everything you need for the class. If you're already good at coding, you'd pass with a breeze. If you're a complete newbie like me, his lectures help a lot."
 
 Course: CSCI348 | Date: 2026-02-18 | Rating: 5/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: Yes

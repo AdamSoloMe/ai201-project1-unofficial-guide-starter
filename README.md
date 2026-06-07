@@ -31,7 +31,7 @@ CUNY Queens College Computer Science professor reviews sourced from Rate My Prof
 | 12 | Mayank Goswami | RMP professor page (44 reviews) | https://www.ratemyprofessors.com/professor/2195317 |
 | 13 | Russell Gomes | RMP professor page (16 reviews) | https://www.ratemyprofessors.com/professor/2913678 |
 | 14 | Delaram Kahrobaei | RMP professor page (23 reviews) | https://www.ratemyprofessors.com/professor/2870283 |
-| 15 | Themistokles Bournias | RMP professor page (5 reviews) | https://www.ratemyprofessors.com/professor/3058898 |
+| 15 | Cuneyt Akinlar | RMP professor page (39 reviews) | https://www.ratemyprofessors.com/professor/2941773 |
 
 ---
 
@@ -49,26 +49,26 @@ A 400-character chunk fits 1–3 reviews naturally. The chunker is paragraph-awa
 
 Each document opens with a structured professor metadata header (name, department, overall rating, difficulty, would-take-again percentage). This header is preserved in the first chunk of each professor's document, allowing retrieval queries like "who is the highest-rated professor?" to match on structured metadata in addition to review text.
 
-**Final chunk count:** 525 chunks across 15 documents
+**Final chunk count:** 555 chunks across 15 documents
 
 ---
 
 ## Sample Chunks
 
 **Chunk 1 — Source: Alex_Ryba**
-> "Professor: Alex Ryba\nDepartment: Computer Science\nSchool: CUNY Queens College (Queens, NY)\nOverall Rating: 4.5/5.0\nDifficulty: 2.8/5.0\nWould Take Again: 88%\nNumber of Ratings: 150"
+> "Professor: Alex Ryba\n\nDepartment: Computer Science\n\nSchool: CUNY Queens College (Queens, NY)\n\nOverall Rating: 4.5/5.0\n\nDifficulty: 2.5/5.0\n\nWould Take Again: 92%\n\nNumber of Ratings: 150\n\n--- Student Reviews ---\n\nCourse: CS212 | Date: 2026-06-06 | Rating: 3/5 | Difficulty: 4/5 | Grade: B+ | Would take again: N/A"
 
 **Chunk 2 — Source: Alex_Ryba**
-> "Course: CS101 | Date: 2023-04-10 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes\n\"Alex Ryba is amazing. Lectures are clear, organized, and he uses real world examples to make concepts click. He posts recorded lectures online which is a lifesaver.\""
+> "Decent professor. Maybe attended 8 lectures, I deserved what I got. His exams contain lots of syntax. Quite hard to work with 1 on 1. Lectures were heavy and honestly a drag, but informative. Practice coding outside of the class and you'll get a good grade. Coding assignments are a significant part of your grade. Not hard to pass at all."
 
 **Chunk 3 — Source: Kent_Boklan**
-> "Course: CS320 | Date: 2022-11-15 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: No\n\"Extremely hard grader. The exams have nothing to do with the homework and he gives very little partial credit. Would not recommend unless you already know the material.\""
+> "Professor: Kent Boklan\n\nDepartment: Computer Science\n\nSchool: CUNY Queens College (Queens, NY)\n\nOverall Rating: 2.5/5.0\n\nDifficulty: 4.5/5.0\n\nWould Take Again: 30%\n\nNumber of Ratings: 149\n\n--- Student Reviews ---\n\nCourse: CS320 | Date: 2026-05-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A"
 
 **Chunk 4 — Source: Jerry_Waxman**
-> "Professor: Jerry Waxman\nDepartment: Computer Science\nSchool: CUNY Queens College (Queens, NY)\nOverall Rating: 3.4/5.0\nDifficulty: 3.1/5.0\nWould Take Again: 55%\nNumber of Ratings: 312"
+> "Professor: Jerry Waxman\n\nDepartment: Computer Science\n\nSchool: CUNY Queens College (Queens, NY)\n\nOverall Rating: 3.4/5.0\n\nDifficulty: 3.1/5.0\n\nWould Take Again: 46%\n\nNumber of Ratings: 312\n\n--- Student Reviews ---\n\nCourse: CS211 | Date: 2026-06-06 | Rating: 5/5 | Difficulty: 4/5 | Grade: A | Would take again: N/A"
 
 **Chunk 5 — Source: Matthew_Fried**
-> "Course: CS211 | Date: 2023-09-01 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes\n\"Professor Fried is one of the best CS professors at Queens. He explains things step by step and is always willing to help during office hours.\""
+> "Professor: Matthew Fried\n\nDepartment: Computer Science\n\nSchool: CUNY Queens College (Queens, NY)\n\nOverall Rating: 4.0/5.0\n\nDifficulty: 3.1/5.0\n\nWould Take Again: 82%\n\nNumber of Ratings: 91\n\n--- Student Reviews ---\n\nCourse: CSCI48 | Date: 2025-10-20 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes"
 
 ---
 

@@ -1,5 +1,5 @@
 """
-Berserk Unofficial Guide — Gradio web interface.
+Queens College CS Professor Unofficial Guide — Gradio web interface.
 
 Run:
     python app.py
