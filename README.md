@@ -25,7 +25,7 @@ CUNY Queens College Computer Science professor reviews sourced from Rate My Prof
 | 12 | Mayank Goswami | RMP professor page (44 reviews) | https://www.ratemyprofessors.com/professor/2195317 |
 | 13 | Russell Gomes | RMP professor page (16 reviews) | https://www.ratemyprofessors.com/professor/2913678 |
 | 14 | Delaram Kahrobaei | RMP professor page (23 reviews) | https://www.ratemyprofessors.com/professor/2870283 |
-| 15 | Themistokles Bournias | RMP professor page (5 reviews) | https://www.ratemyprofessors.com/professor/3058898 |
+| 15 | Cuneyt Akinlar | RMP professor page (39 reviews) | https://www.ratemyprofessors.com/professor/2941773 |
 
 ---
 
