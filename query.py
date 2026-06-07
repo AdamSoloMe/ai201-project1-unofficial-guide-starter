@@ -14,7 +14,7 @@ load_dotenv()
 
 CHROMA_DIR = "chroma_db"
 COLLECTION_NAME = "qc_professors"
-TOP_K = 5
+TOP_K = 7
 MODEL_NAME = "llama-3.3-70b-versatile"
 
 SYSTEM_PROMPT = """\

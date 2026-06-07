@@ -31,7 +31,7 @@ CUNY Queens College Computer Science professor reviews sourced from Rate My Prof
 | 12 | Mayank_Goswami | 25 student reviews — CS courses (3.3/5.0, 44 ratings) | https://www.ratemyprofessors.com/professor/2195317 |
 | 13 | Delaram_Kahrobaei | 23 student reviews — CS courses (3.9/5.0, 23 ratings) | https://www.ratemyprofessors.com/professor/2870283 |
 | 14 | Russell_Gomes | 16 student reviews — CS courses (3.3/5.0, 16 ratings) | https://www.ratemyprofessors.com/professor/2913678 |
-| 15 | Themistokles_Bournias | 5 student reviews — CS courses (5.0/5.0, 5 ratings) | https://www.ratemyprofessors.com/professor/3058898 |
+| 15 | Cuneyt_Akinlar | 25 student reviews — CSCI111, CSCI331, CSCI348 (4.9/5.0, 39 ratings) | https://www.ratemyprofessors.com/professor/2941773 |
 
 ---
 
@@ -55,7 +55,7 @@ Each document also opens with a professor metadata header (name, department, ove
 
 **Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers`
 
-**Top-k:** 5
+**Top-k:** 7
 
 **Production tradeoff reflection:**
 
@@ -66,7 +66,7 @@ Each document also opens with a professor metadata header (name, department, ove
 - **Accuracy vs. cost:** OpenAI's `text-embedding-3-small` consistently outperforms MiniLM on retrieval benchmarks and would reduce the retrieval failures observed for vague queries (e.g., "which professor gives helpful feedback"), but it costs money per call.
 - **Multilingual support:** Queens College has a significant international student population. A multilingual model would allow queries in Spanish, Chinese, or Korean to retrieve English-language reviews.
 
-Top-k is set to 5. With 15 professors in the corpus, retrieving 5 chunks often means pulling from 3–4 different professors — enough context for comparative questions ("who is easiest?") without flooding the prompt with redundant content.
+Top-k is set to 7. With 15 professors in the corpus, retrieving 7 chunks ensures a named professor's own reviews are surfaced even when another document mentions them in passing. 7 was chosen after observing that a query like "Is Waxman a good professor?" ranked Waxman's own chunks at position 6 due to a Russell Gomes review mentioning his name — top-5 would have missed him entirely.
 
 ---
 
@@ -74,17 +74,17 @@ Top-k is set to 5. With 15 professors in the corpus, retrieving 5 chunks often m
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which CS professor at Queens College is the most highly rated by students? | Themistokles Bournias (5.0/5.0, 5 ratings) or Alex Ryba (4.5/5.0, 150 ratings) — the system should name a specific professor with supporting rating data. |
-| 2 | What do students say about Alex Ryba's teaching style and difficulty? | Reviews describe him as engaging, helpful, and a great teacher; difficulty is manageable (2.5/5.0); 92% would take again — overall very positively regarded. |
-| 3 | Is Jackson Yeh a good professor for CS240? | Yes — reviews describe him as a good teacher with fair difficulty (2.8/5.0); 82% of students would take him again; course is CS240. |
-| 4 | What do students complain about most in Queens College CS courses? | Poor communication, disorganized lectures, harsh grading, and lack of office hour availability — cited across John Svadlenka, Kent Boklan, and Simina Fluture reviews. |
-| 5 | Which Queens College CS professor is easiest and which is hardest? | Easiest: Themistokles Bournias (2.0/5.0 difficulty) or Alex Ryba (2.5/5.0); Hardest: Kent Boklan (4.5/5.0) or John Svadlenka (4.3/5.0) — the system should cite difficulty ratings from the documents. |
+| 1 | Which CS professor at Queens College is the most highly rated by students? | Cuneyt Akinlar (4.9/5.0, 39 ratings) or Alex Ryba (4.5/5.0, 150 ratings) — the system should name a specific professor with supporting rating data. |
+| 2 | What do students say about Alex Ryba's teaching style and difficulty? | Reviews describe him as clear, organized, and engaging; uses real-world examples; records lectures; difficulty is manageable (2.5/5.0); 92% would take again. |
+| 3 | Is Jerry Waxman a good professor for CS courses? | Mixed — some praise his lecturing, others find him hard to follow; overall rating 3.4/5.0 with 312 reviews; only 46% would take him again. |
+| 4 | What do students complain about most in Queens College CS courses? | High difficulty with unfair grading (Boklan cited); disorganized lectures; heavy workloads — cited across Kent Boklan, John Svadlenka, and Simina Fluture reviews. |
+| 5 | Which Queens College CS professor is easiest and which is hardest? | Easiest: Alex Ryba (2.5/5.0 difficulty) or Delaram Kahrobaei (2.5/5.0); Hardest: Kent Boklan (4.5/5.0) or John Svadlenka (4.3/5.0) — the system should cite difficulty ratings from the documents. |
 
 ---
 
 ## Anticipated Challenges
 
-1. **Thin coverage for rarely-reviewed professors.** Several professors in the corpus have only a handful of reviews. A question specifically about Themistokles Bournias (5 ratings) or Russell Gomes (16 ratings) will retrieve minimal content — potentially just one chunk — which is not enough for the LLM to give a confident, detailed answer. The system will (correctly) say it doesn't have enough information, but this reveals a corpus coverage gap rather than a retrieval or generation failure.
+1. **Thin coverage for rarely-reviewed professors.** Several professors in the corpus have only a handful of reviews. A question specifically about Russell Gomes (16 ratings) or Delaram Kahrobaei (23 ratings) will retrieve minimal content — potentially just one chunk — which is not enough for the LLM to give a confident, detailed answer. The system will (correctly) say it doesn't have enough information, but this reveals a corpus coverage gap rather than a retrieval or generation failure.
 
 2. **Comparative queries require cross-document reasoning.** Questions like "who is the easiest professor?" require the retrieval step to surface chunks from multiple professor documents, and the generation step to synthesize ratings across them. MiniLM embeddings don't inherently capture the comparative structure of the query — it retrieves chunks based on individual term similarity, not by understanding "compare professors." This means the retrieved chunks may not be the most relevant ones for answering the question as a whole.
 
@@ -112,7 +112,7 @@ Top-k is set to 5. With 15 professors in the corpus, retrieving 5 chunks often m
 │  app.py (Gradio)                                                     │
 │  ┌──────────┐    query.py                                           │
 │  │  User    │    ┌─────────────────────────────────────────────┐   │
-│  │  Question│──► │ embed query → ChromaDB top-5 → build prompt │   │
+│  │  Question│──► │ embed query → ChromaDB top-7 → build prompt │   │
 │  │          │    │ (MiniLM)      semantic search   w/ context  │   │
 │  │  Answer  │◄── │                                             │   │
 │  │  Sources │    │ Groq API (llama-3.3-70b-versatile)         │   │
