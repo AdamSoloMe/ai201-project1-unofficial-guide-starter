@@ -1,0 +1,89 @@
+Source: Jerry_Waxman
+URL: https://www.ratemyprofessors.com/professor/287312
+
+Professor: Jerry Waxman
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 3.4/5.0
+Difficulty: 3.1/5.0
+Would Take Again: 46%
+Number of Ratings: 312
+
+--- Student Reviews ---
+
+Course: CS211 | Date: 2026-06-06 | Rating: 5/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Went to ~60% of lectures, attended lab only for quizzes, went to the final 80 minutes late. Got an A. Amazing professor, fantastic lecturing ability. Content may be difficult, but most enlightening. Do projects by yourself, use ai only to teach you concepts. Attending, participating, and meditating on the concepts will get you mastery of C++."
+
+Course: CS381 | Date: 2026-04-14 | Rating: 5/5 | Difficulty: 5/5 | Grade: B- | Would take again: Yes
+"You do not take this professor for a grade, you seek his teachings through this course to LEARN. I've long graduated, yet many of his core teachings have not left me. You are part of the best of the best Prof! Thank you for making such a cognitively difficult and overloaded course so enjoyable and memorable!"
+
+Course: CSCI211 | Date: 2026-02-03 | Rating: 4/5 | Difficulty: 4/5 | Grade: B+ | Would take again: Yes
+"He is a good prof. He will answer all your questions if you ask him. Some students get low grades because they don't attend his class or don't review their notebooks. You should listen carefully and take notes, it will be helpful for exams. He curves based on the class average. I recommend taking his class."
+
+Course: CSCI211 | Date: 2025-12-28 | Rating: 4/5 | Difficulty: 2/5 | Grade: B | Would take again: Yes
+"I never went to labs so I got a B. His exams were trivial, i.e. you should have no problems if you did the work. Waxman himself is actually reasonable and nice, it's that he's seen so much BS from students over the years. Just do the work and it's an easy A+. If not, lock in because CS gets much harder than this."
+
+Course: 211 | Date: 2025-12-26 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"I took his class in the fall, and the experience was very difficult. His handwriting was hard to read, and no technology was allowed. If a phone was used, he would stop the lecture to address it. I found it easier to learn the material on my own. I would not recommend this class if GPA is a concern."
+
+Course: CS211 | Date: 2025-12-26 | Rating: 4/5 | Difficulty: 3/5 | Grade: A- | Would take again: N/A
+"Waxman is a charismatic guy but his explanations can be overly complex sometimes. He gives a vague idea about what would be on his tests but they're moderately difficult since all you have to really do is remember the projects. His curves ease the stress and his tests are mainly fill in the blanks or &#8220;enter the output&#8221; questions."
+
+Course: CSCI211 | Date: 2025-07-25 | Rating: 3/5 | Difficulty: 2/5 | Grade: A+ | Would take again: N/A
+"Explanation aren't the best and test reviews are not useful. Lectures are sometimes a bit to follow"
+
+Course: 211 | Date: 2025-06-03 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"Worst experience in QC, you won't learn anything besides memorizing projects. Waxman loves to gatekeep what is on the test and will make his exams as hard as possible to the point where his curves can't even save you. Learned more from 211 review sessions that weren't even from him than all his lectures combined. Please avoid him and his textbooks."
+
+Course: CSCI211 | Date: 2025-05-30 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Waxman gets a bad rep, but honestly 211 is more of a weed out class. At the end of each test, we were given a graph that shows how well you did and more than 60% of the class did so bad, which ends up helping you cause he gives a massive curve.
+
+Currently taking 300 level courses, and there are people who still don't know how to create Classes."
+
+Course: CS211 | Date: 2025-05-30 | Rating: 2/5 | Difficulty: 3/5 | Grade: Rather not say | Would take again: N/A
+"was surprised we weren't allowed to use our computer or any electronics. His lectures were okay, it didn't help me, tho. You have to buy the textbook to take your notes, and his review was so-so. The exams were mostly writing, then coding. There were unexpected questions in his exams; he has a big curve, but I will not take his class again."
+
+Course: CSCI381 | Date: 2025-05-29 | Rating: 4/5 | Difficulty: 3/5 | Grade: B | Would take again: Yes
+"if you want a good grade, study hard, even though there is a deep curve"
+
+Course: CS381 | Date: 2025-05-29 | Rating: 4/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"He is a really good person. As a professor, he just goes through the material in class, but if you have anything questions during the class, just ask, he will explain to you. Test is hard, but with high curve."
+
+Course: CSCI211 | Date: 2025-05-28 | Rating: 4/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"It's hard to hear him unless you sit up close. The class isn't OOP until last class and it's mostly thinking how to program. If you like coding, this isn't a bad class but take someone else if you want true OOP. 1 hard exam, 1 easy exam, curved into Narnia. 40% for lab. If you're not getting at least a B+ you're trolling."
+
+Course: CSCI381 | Date: 2025-05-28 | Rating: 3/5 | Difficulty: 4/5 | Grade: C | Would take again: N/A
+"as usual his questions are random and i didn't know anything but the waxGod blessed me with his curve. If you took him in 211 then this class is the same except its in python"
+
+Course: 211 | Date: 2025-05-28 | Rating: 1/5 | Difficulty: 4/5 | Grade: C+ | Would take again: N/A
+"Waxman was by far the most stressful professor I had. His final and midterm were full of surprises&#8212;completely unpredictable! I swear there was no way of knowing what he would put because he was so random. I felt defeated because nothing I studied actually mattered. If you can take another professor, please do. lowkey surprised I even passed."
+
+Course: CS211 | Date: 2025-05-27 | Rating: 3/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"Exams are worth 60%, labs 40%. Exams are extremely tough to study for. Professor Waxman gatekeeps what's on them, so it's hard to feel prepared. Despite that, the curve is very generous, I passed even when I thought I failed. He's a great lecturer who explains concepts clearly and in depth. You must come to class or you'll be very lost in class."
+
+Course: CSCI211 | Date: 2025-05-15 | Rating: 3/5 | Difficulty: 4/5 | Grade:  | Would take again: N/A
+"this isn't really an OOP class until you reach the end. the whole class seems erratic and highly disorganized. exams are definitely something to study extensively for (even tho the sqrt x 10 curve is a lifesaver.) makes you buy his $25 notebook as a portion of your grade (which contain a lot of materials directly related to the lab assignments.)"
+
+Course: CSCI211 | Date: 2025-04-04 | Rating: 2/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"Waxman is okay. Lectures are mid and the $25 textbook is useless. He's nice and wants you to pass. Exam curve is sqrt grade &#215; 10 or more, depending on class performance. No review sheets. Barely learned anything&#8212;YouTube helped more. OOP is taught at last week. The class focuses on algorithms but doesn't teach them well. Take someone else if you can"
+
+Course: CS211 | Date: 2025-02-11 | Rating: 2/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"He makes you buy his packet from Amazon for $25 even if you don't need it. I got an email saying he will be checking if we all purchased the packet, and will be giving points whether notes are filled inside packet. WHY can I not take my own notes why does it have to be through this packet. I already know C++ anyway so this packet is useless to me"
+
+Course: CS211 | Date: 2025-01-27 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"He is a great professor, I recommend attending as many lectures as possible to pass his class. The homework will be extremely helpful for studying and make sure to look back on the programs you are tasked to do. Overall, great lecturer and very respectful person"
+
+Course: CSCI381 | Date: 2025-01-27 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"This was my second time taking Waxman (first for CSCI211). I can confidently say that he's a WAY better lecturer for his 381 class; I genuinely enjoyed his lectures and I learned a lot from him. Even if you have a Python background, you'll come out having learned a lot of new stuff. Prepare to expect the unexpected for the exams, though. Good luck!"
+
+Course: CSCI211 | Date: 2025-01-07 | Rating: 4/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"The curve for the class is insane. I would have got a C or b- in this class but i got A+. Its easy to pass."
+
+Course: CSCI211 | Date: 2024-12-20 | Rating: 4/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"His class is somewhat easy but tedious. Since his tests are really hard, he gives a really big curve. A 60 could get you an 80. The projects are a bit hard but most of it is given in his notes that you have to buy. One midterm and a final, and around 14 projects plus biweekly quizzes in lab."
+
+Course: CSCI211 | Date: 2024-07-30 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"SPRING 2024: The midterm was straightforward, with many getting 100+. The final was harder, yet still doable and both midterm and final were curved with a godly curve of sqrt*10. Thus, it is effectively impossible to fail the course, if you give even half effort. Free projects, Waxman will spoonfeed code. Pay attention and take good notes for exam."
+
+Course: 211 | Date: 2024-07-30 | Rating: 3/5 | Difficulty: 5/5 | Grade:  | Would take again: Yes
+"Waxman is the better choice for 211 (Alayev is brutal from what my friends told me) but this class was the most disorganized class I ever took. Reason I gave him a 3 is because the first 3-4 assignments are built on top of each other using same algorithm. So if you're lost on the first one gl cause you're screwed on the others. Exams are fair btw"

@@ -1,0 +1,88 @@
+Source: MdMahbubur_Rahman
+URL: https://www.ratemyprofessors.com/professor/2649371
+
+Professor: Md Mahbubur Rahman
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 2.3/5.0
+Difficulty: 4.2/5.0
+Would Take Again: 35%
+Number of Ratings: 87
+
+--- Student Reviews ---
+
+Course: CSCI-381 | Date: 2026-05-28 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"I ended up with an A in this class. The grading is heavy on tests, make up about 80% of your final grade but the exams are completely fair and don't try to trick you. The rest of the workload is very manageable, consisting of just 2 individual homework assignments and 2 presentations throughout the semester."
+
+Course: CSCI-381 | Date: 2026-05-28 | Rating: 5/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Dr. Rahman is very knowledgeable and talented. He makes hard topics easy to understand. Best professor!!!"
+
+Course: CS343 | Date: 2025-05-28 | Rating: 2/5 | Difficulty: 5/5 | Grade: A+ | Would take again: N/A
+"He is actually a nice person, but the lectures are boring imo. CS343 is a VERY HARD course so you have to have at least 9 hours of studying a week to do well(read the slides/zybooks and create flashcards) The homework is actually manageable and easy. As far as grading go, it is very strict so study a lot and check your work before you hand the exam"
+
+Course: CSCI-381 | Date: 2025-05-27 | Rating: 4/5 | Difficulty: 4/5 | Grade: B | Would take again: Yes
+"Took his Wireless Signals 381 and was expecting him to live up to his notoriously bad reputation but honestly, not bad at all. Grade consist of two midterms, group project, group presentations, and homework, very manageable. In lecture he is very quiet but his slides provide lots of useful information. Study hard and you will pass his class."
+
+Course: CSCI343 | Date: 2025-03-19 | Rating: 1/5 | Difficulty: 5/5 | Grade: C+ | Would take again: N/A
+"such a bad professor never take him!!!!!!!!!!!!! BRO PLEASE!!! YOU DON'T WANT TO REGRET TAKING HIM!!!!"
+
+Course: CS348 | Date: 2025-01-29 | Rating: 4/5 | Difficulty: 4/5 | Grade: B | Would take again: Yes
+"Good prof, nowhere near as bad as the reviews make him out to be"
+
+Course: CS348 | Date: 2025-01-24 | Rating: 4/5 | Difficulty: 4/5 | Grade: B+ | Would take again: Yes
+"Short winter session and not a lot to study off except slides and hw but he was very generous with the grading at least. Not as bad as people make him out to be. Genuinely try to study and I could say you'll at least pass."
+
+Course: CS348 | Date: 2025-01-22 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"Grading is very strict, tests are a large part of the program, and teachers seem to have little patience or interest in teaching. qc is having a hard time even recruiting some regular teachers."
+
+Course: CS343 | Date: 2025-01-21 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"He's Awful- Took him the winter and he finished 6 chapters in 20 days. Did not do a review and made the test HARDDDDD! He provides no feedback to your homeworks and hes unwilling to help students to prepare for the exam better."
+
+Course: cs340 | Date: 2025-01-20 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"Lots of memorization from countless slides. Takes off point for the smallest things.. our midterm average was a 20. Please avoid these positive reviews are deceiving."
+
+Course: Math1013 | Date: 2025-01-03 | Rating: 1/5 | Difficulty: 5/5 | Grade: B+ | Would take again: N/A
+"The professor was awful, due to the fact that he neither prepared lecture notes for his own use nor responded to my emails."
+
+Course: cs340 | Date: 2024-12-30 | Rating: 4/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"everything is doable and straightforward. The exams are based on memorization, definitions are also from the slides. People complain but you can't pass without doing the minimum work and whining your way out. There is a lot of material, many things to memorize and understand but the class was very doable and prof Rahman is not tricky like others"
+
+Course: CSCI-381 | Date: 2024-12-27 | Rating: 4/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Dr. Rahman is an expert in wireless signals and has a lot to teach you. Your grade is not entirely dependent on exams but also based on group projects and presentations. I would recommend trying to come in with a group since the project is not a walk in the park. This class was very difficult but also very rewarding."
+
+Course: CSCI343 | Date: 2024-11-05 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"I don't know about few negative reviews,but I took him last semester and the class was super easy.Lenient grader,fair exam, gives lots of extra credits.Was in bit doubt before taking the class, but ultimately found it was a win-win decision."
+
+Course: CS343 | Date: 2024-03-12 | Rating: 1/5 | Difficulty: 3/5 | Grade: A | Would take again: N/A
+"Possibly the worst lecturer and laziest professor of all time. Took almost a month to grade midterms despite only teaching 2 medium sized 30 to 40 person classes. Provides little to no resources to succeed in class. The only reason to take him for 343 is he goes kind of slow and his material isn't as in depth as other professors."
+
+Course: CCS343 | Date: 2024-02-03 | Rating: 4/5 | Difficulty: 4/5 | Grade: A+ | Would take again: Yes
+"Honestly I dnt know why he is getting so many bad reviews. He wasent very bad tbh. I wuld say his exam are a bit hard. Study hard and get good grades."
+
+Course: cs340 | Date: 2023-12-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"terrible experience. confused us the entire time, does not teach!! but will give zeros and failing grades left and right. he had a lot more awful reviews here but they get removed"
+
+Course: CSCI343 | Date: 2023-12-27 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Tells you "attendance isn't mandatory", then at the end of semester says he takes participation and effort into consideration when grading. Meanwhile, he doesn't teach. Actually made the students do lectures for like 3-4 classes in a row before the FINAL while he sat on his PHONE. And FORGET about partial credit. Off by a decimal? Its already over."
+
+Course: CS343340 | Date: 2023-12-25 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"This prof is genuinely an unhappy person, with bad explanations, very tough grader, refusal to repeat answers, he cant teach assumes you should know everything.I have never had a professor as bad as his in my life, please don't take him 70 percent of class always withdraws."
+
+Course: cs340 | Date: 2023-12-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"This guy teaching is nonexistent. You will have to learn everything yourself. Grades incredibly harshly at times. He will doc points for things he makes up in his mind and expects you to know. Your tuition is going to his pocket while the students teach the class. Lazy is a very kind word for him."
+
+Course: cs340 | Date: 2023-12-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: B- | Would take again: N/A
+"The negative experience with this professor is characterized by arrogance, poor communication, and a lack of support. Students grapple with challenging content without guidance, as the professor fails to contribute positively to the learning process. Overall, a regrettable encounter with an unhelpful and discourteous educator."
+
+Course: cs340 | Date: 2023-12-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"This professor's teaching style is nothing short of abysmal. With an arrogant demeanor and an evident reluctance to engage with students through emails or office hours, the learning experience is marred by a lack of support. Grading is excessively difficult, and the class demands a level of self-reliance that borders on unreasonable."
+
+Course: CCS343 | Date: 2023-12-16 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: N/A
+"72 bucks for 5% of your grade. DAMNNNNNNNNNNNN
+ - idunnowasgoinonwithwho"
+
+Course: CS343 | Date: 2023-12-15 | Rating: 3/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"its one of the harder cs classes and I know alot of people from this years 343 section are sour about this class, but honestly, he is probably one of the better choices for 343 at qc. the tests are not hard, they are just weighted pretty heavily. If you are good at self-study, he is a solid option. Go to class and participate."
+
+Course: CSCI343 | Date: 2023-11-19 | Rating: 4/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: Yes
+"Could be easier to reach but overall good. Hard class/major, my grades arent great but so what. Rahmans a good guy. Hes trying to condense the material as much as possible w/ the slides and then give as much time to study as possible, trade-off being there's only 2 exams. Good prof working in a CS dept with (imho) unrealistically high expectations."

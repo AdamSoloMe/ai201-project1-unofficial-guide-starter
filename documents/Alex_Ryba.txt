@@ -1,0 +1,87 @@
+Source: Alex_Ryba
+URL: https://www.ratemyprofessors.com/professor/44623
+
+Professor: Alex Ryba
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 4.5/5.0
+Difficulty: 2.5/5.0
+Would Take Again: 92%
+Number of Ratings: 150
+
+--- Student Reviews ---
+
+Course: CS212 | Date: 2026-06-06 | Rating: 3/5 | Difficulty: 4/5 | Grade: B+ | Would take again: N/A
+"Decent professor. Maybe attended 8 lectures, I deserved what I got. His exams contain lots of syntax. Quite hard to work with 1 on 1. Lectures were heavy and honestly a drag, but informative. Practice coding outside of the class and you'll get a great grade. Don't skip lab, it makes a pretty decent part of your grade. Not hard to pass at all."
+
+Course: CS212 | Date: 2026-05-23 | Rating: 4/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"Rated a 4 bc lectures are clear, lots of examples--BUT the info is a lot! A recurring pattern of putting in topics in the exams that are kind of glossed over/not prioritized in lab. Curves generously. Doesn't give much info abt the exams' contents, but there are practice problems."
+
+Course: CS313 | Date: 2026-04-14 | Rating: 5/5 | Difficulty: 4/5 | Grade: C | Would take again: Yes
+"Try not to take the early morning sections if you aren't a morning person! Nonetheless, this is the ideal course to learn and apply the knowledge of data structures! You'll need to regularly dedicate much practice for each concept as you'll never know when a quiz is looming around! The curveballs in exams truly test your problem solving and wit!"
+
+Course: CISI111 | Date: 2026-04-14 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Professor Ryba is one of the best in Queens College, and the opportunity to start your knowledge here was an absolute pleasure! His lectures serve to introduce the overall concepts within Computer Science with C++ under the scope of iostream and the C standard lib. Theory alone won't get you a grade but problem solving and practicing syntax will."
+
+Course: CS320 | Date: 2025-02-01 | Rating: 5/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Absolutely the best, super nice and down to earth guy that is very knowledgeable about what he's teaching. He really seems to care about the students. I got a pretty mediocre score on the midterm, missed the second midterm, and did very good on the final and he gave me an A. He definitely notices your improvement and rewards you for it."
+
+Course: CS111 | Date: 2024-11-12 | Rating: 5/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"Ryba's CS111 is no easy feat, but with diligent practice using his review packets and tools like unstuckstudy, you can master the basics and earn a solid grade. Lectures are informative, and the curve helps offset the challenge."
+
+Course: 111 | Date: 2024-09-05 | Rating: 5/5 | Difficulty: 3/5 | Grade:  | Would take again: Yes
+"He's an amazing prof, he cares about his students, you can attend in person or online or even watch the lecture when you have time and review the notes and codes, he also helps his students with their grades"
+
+Course: CSCI111 | Date: 2024-07-01 | Rating: 5/5 | Difficulty: 1/5 | Grade: A- | Would take again: Yes
+"Pretty good tbh. Attendance not needed. only need to show up to the final"
+
+Course: CSCI111 | Date: 2024-05-13 | Rating: 4/5 | Difficulty: 2/5 | Grade: B | Would take again: Yes
+"Great professor, no need for attendance since all of his lectures are recorded."
+
+Course: 111 | Date: 2024-01-19 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"First time taking C++ after being scared about it but he explains everything really well. He only has 3 tests, but will replace your score if you fail on the first 2 exams but pass the final. Tests are a LOT harder than what he goes over in class. Curve carries your grade. I got a 19/30 (63.33%) on the final, yet I passed the class with an A."
+
+Course: CS111 | Date: 2024-01-04 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Great guy and he teaches the basics very well. However, just paying attention in class won't get you an A. You have to practice using the review packets he gives you. The exams were not too bad, if you studied enough you will do great. Plus, his curve is insane."
+
+Course: CS111 | Date: 2024-01-04 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"The tests were very fair, practice the review problems!! That is the key to passing, the earlier you start practicing the better. The lectures were informative but very basic, hence, solving the practice problems are your best way of getting a high grade."
+
+Course: 111 | Date: 2023-12-29 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Dr.Ryba is a fantastic lecturer, who made use of many "real world" examples throughout his classes to solidify concepts. Attendance is not mandatory, he records the lectures and posts them all online.Ultimately, to do well in this course, do many problems which he provides from past exams. practice problems are your key to the A."
+
+Course: CSCI111 | Date: 2023-10-06 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"Really good teacher. This class can be taken online or in person. Attendance is not mandatory and he posts recording of the class. Easy to understand as a first time coder in C++. i recommend to take him. Fun and chill guy. The textbook is around 30 but there is free pdf online. 10/10 professor!"
+
+Course: CS320 | Date: 2023-07-17 | Rating: 1/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"Use to be good ,aging took him in a different direction"
+
+Course: CS320 | Date: 2023-04-06 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Alex Ryba is the GOAT, he explains everything in such an easy to digest way. He responds pretty quick to emails, and his exams are very fair. Very reasonable curve, if you do the homeworks you can easily pass this class."
+
+Course: CS111 | Date: 2022-01-26 | Rating: 5/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"Hes a good prof. And teaches everything very well. He even gives the handouts for practice exam questions. I took his class in winter, so thats why he went very fast. He taught good, very fast. His exam questions are harder than the problems we do in class."
+
+Course: CS111 | Date: 2021-06-30 | Rating: 4/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"good prog able to convey things well"
+
+Course: CS111 | Date: 2021-05-31 | Rating: 3/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"He isn't as good as previous reviews state. He is too lazy to go after cheaters which according to him made up over half of the class. That made the curve smaller cause cheaters would score higher. Lectures are the most basic uses of the c++ language while tests are much more complex. Offers no help when asked as he says your lab professor should."
+
+Course: CSCI111 | Date: 2021-05-29 | Rating: 3/5 | Difficulty: 5/5 | Grade:  | Would take again: No
+"Good professor as he touches on every topic very concisely. But only 3 exams which are two midterms 20% each and a final 40%. He is willing to work with you in the event that you missed a midterm, he will replace that grade with your final grade. Also if you do better on final than either midterm, he replaces the lower midterm grade with the final."
+
+Course: CSCI111 | Date: 2021-05-27 | Rating: 5/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"Honestly a refreshing take to your typical CS professor, does a wonderful job of keeping you engaged although the humor is kind of dry but what more can you expect from a CS professor? All the material is outlined on the website, and practice problems are given prior to the midterms, tests were curved and ended up getting a decent grade."
+
+Course: CS111 | Date: 2021-05-26 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Ryba is amazing. Definitely worth taking if you're a comp science major. His classes are super clear with plenty of examples. He gives out a packet of practice problems for his tests which will help immensely if you take advantage of it. He also curves your grade which got me to an A for the class."
+
+Course: CS111 | Date: 2021-05-26 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Ryba is AMAZING! Everything he teaches is clear, organized, and makes sense. The material is hard, but as long as you make sure to study a lot in advance, you will do well. Two midterms and a final - everything is as expected. He curves if the class doesn't do well. I feel like I have good basic C++ skills after this class. TAKE HIM!!!!"
+
+Course: CS111 | Date: 2021-05-25 | Rating: 4/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"He's great and gives amazing funny lectures. The only complaint id have is he sort of does baby steps in lectures and the exams are MUCH harder so practice a lot. The other comment about him not curving is False. He said he would curve the final grade not individual tests so you would definitely get a decent grade by trying your best."
+
+Course: CISI111 | Date: 2021-05-25 | Rating: 4/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Professor Ryba did his best to teach during the pandemic. I think he did a great job teaching the material while giving a fair curve for everybody. You have to put in some work and do some of the practice problems to study for the exams."

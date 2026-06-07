@@ -1,0 +1,93 @@
+Source: Kent_Boklan
+URL: https://www.ratemyprofessors.com/professor/629756
+
+Professor: Kent Boklan
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 2.5/5.0
+Difficulty: 4.5/5.0
+Would Take Again: 30%
+Number of Ratings: 149
+
+--- Student Reviews ---
+
+Course: CS320 | Date: 2026-05-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"I'd say this class was pretty unhelpful for really learning. He went very fast on materials too. Grades were entirely based on 3 exams, no assignments, no quiz so no opportunities to receive feedback on understanding. Don't mind the exam being difficult but no review sheet or review session or old exams seemed to completely ignore student success."
+
+Course: CS320 | Date: 2026-05-26 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: N/A
+"Boklan is arguably one of the most difficult professors in the CS dept. Your grade is only based on exams. No electronics allowed, including if you are allowed to record the class via disability services. He does not directly follow the textbook, so if you miss a class, youre out of luck. OH are inaccessible for most students."
+
+Course: CS320 | Date: 2026-05-25 | Rating: 4/5 | Difficulty: 5/5 | Grade: B- | Would take again: N/A
+"Only way to pass this class without going bald during finals week is 1. attending every single class and 2. showing up to the office hours(!) consistently. It's basically a review of that day's lecture, really helpful to see him work through the homework problems. If I didn't attend the majority of them I would've failed. Requires effort but doable"
+
+Course: CS320 | Date: 2026-03-12 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: N/A
+"An honors student with 3.8 GPA in computer science. Trust me no matter how hard you work your grade will not reflect that in this class. I studied hours and hours for his exams, attended every single class but still couldn't do well. Out of 35 students only 4 passed. No hate to him, he teaches really well but the exams he takes are hilarious."
+
+Course: CSCI320 | Date: 2026-02-25 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"To everyone who is reading this, please don't be discouraged with the failing grade you get from this Professor. I failed on his class as well with big fat F on Spring 2021. I later took this class with Obrenic and passed with Grade 'A' :) You can do it!!! Don't repeat same class with him if you have failed."
+
+Course: CSCI320 | Date: 2026-02-20 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"In the beginning, he makes it seem like class is easy to pass but if you are not self-studying and devoting 1 hr each day, you will fail. It seems like you will pass easily but no. His tests are unnecessarily confusing with multiple choices(6 options) and true and false. Don't fall for the curve, only ~10/50 passed. Take Prof.Obrenic instead."
+
+Course: CS352 | Date: 2026-01-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Actually I take it back. Don't take it even if you're smart. NEVER take this class"
+
+Course: CS320 | Date: 2026-01-07 | Rating: 1/5 | Difficulty: 4/5 | Grade: F | Would take again: N/A
+"No sane student would give this guy more than a 2/5."
+
+Course: CS320 | Date: 2025-12-23 | Rating: 1/5 | Difficulty: 4/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Theory of Computation is a challenging subject, and the course structure did not make the material easier to grasp. The teaching style was not a good fit for me, and despite completing the homework, studying extensively, and attending office hours, I struggled to succeed. Avoid, he fully lives up to the reputation people warn about."
+
+Course: CS320 | Date: 2025-12-23 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"Be wary of the glowing reviews; they don't reflect the reality of this class. The teaching was poor and the syllabus was ignored. My experience was the polar opposite of the high ratings here."
+
+Course: CS320 | Date: 2025-12-19 | Rating: 5/5 | Difficulty: 5/5 | Grade: B+ | Would take again: Yes
+"This class tests your work ethic. Exams are heavily curved (40 pass, ~60 B, ~73 A) with generous partial credit, but your entire grade is 3 exams. Many test questions come directly from class or homework, often verbatim. You must practice. Expect ~6 hrs/week. Not impossible, but real work is required."
+
+Course: CS352 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 5/5 | Grade:  | Would take again: N/A
+""There are no bad students, only bad teachers" - Mr. Miyagi"
+
+Course: CSCI352 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 5/5 | Grade: D | Would take again: N/A
+"This professor follows a flawed philosophy where high failure rates equals "rigor." Instead of teaching effectively, he seems to actively gatekeep success, believing that if most students pass, he's too easy. In reality, the high fail rate reflects his poor instruction, not student effort. Avoid if you want a fair chance."
+
+Course: CSCI352 | Date: 2025-12-03 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"Don't take even if you're thinking that "this is the semester I put my mind to it" cause even then, you'll fail. Boklan is smart, but he isn't a good professor. He lets you know that this is the most challenging class in all of QC but fails to tell you that he is the reason its hard, not the course topics. Only 1 person ever got an A+ in this class"
+
+Course: CS352 | Date: 2025-12-03 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"This CS elective of Cryptography is treated like a masters level course for just 3 credits. Anyways he tells us to drop due to the workload and he says people before have taken time off their jobs just to work on the group project at the end."
+
+Course: CS352 | Date: 2025-10-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"No matter the time put, you'll most likely fail. If you want stats, the highest Avg of a Sem was 1.89 and the lowest was 0.76. The class is entertaining and he teaches well, but his problem set is extremely difficult as are the exams, with little to no credit for any work shown. You'll be happy getting higher than 25% on a problem set. Wait a Sem."
+
+Course: CSCI352 | Date: 2025-10-19 | Rating: 5/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"Professor Boklan is someone who really cares. He may come off stern, but thats because he wants the best from you.
+
+I took cryptography class as a challenge in my last year. Ill never forget the words that professor left us with..."you need to RISE to the challenges of life, dont back away."
+
+Our lectures were very fun and engaging."
+
+Course: CS320 | Date: 2025-09-01 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: N/A
+"Good reviews are fake. Please stay away from this professor. Take another peofessor or this class equivalent in other college and transfer credit. I was sick and he told me that I have to take exam no matter what. I couldn't study and failed. See other reviews and stay away."
+
+Course: CS352 | Date: 2025-04-26 | Rating: 5/5 | Difficulty: 5/5 | Grade: A+ | Would take again: Yes
+"Goto class get an A. Fall he is returning - fill his section, you won't regret"
+
+Course: CS320 | Date: 2025-04-24 | Rating: 4/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"most people giving these negative reviews didn't show up in class and ended up getting bad grades. I got an A-, just pay attention in lecture, practice by yourself and you'd be able to learn really well from this class. He's really good at teaching the materials."
+
+Course: CS220 | Date: 2025-02-21 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Absolute worst professor I've ever encountered, ask anyone in cs and they'll give you endless reasons why he made their life miserable"
+
+Course: CS320 | Date: 2024-11-13 | Rating: 3/5 | Difficulty: 4/5 | Grade: B | Would take again: Yes
+"Professor Boklan's class is no walk in the park, but with dedication and the right study tools like unstuck study, you can succeed. Attendance is a must, but the lectures are engaging. Take advantage of office hours for extra support."
+
+Course: CSCI320 | Date: 2024-09-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"He is getting reviews taken down and putting up fake reviews. Here is my word of advice do not take this teacher no matter what. No matter what school, no matter what class. Dont take him"
+
+Course: CS320 | Date: 2024-05-22 | Rating: 5/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: Yes
+"He is very witty. I like his jokes. It is really a pleasant experience to be in his classroom, no phone and no computers really make me listen to his lecture every time in concentration. 
+Go OH if you found yourself lost in the first few lectures.
+A great professor and deputy chair, very sad that he will be off for a few semesters."
+
+Course: CS320 | Date: 2024-03-23 | Rating: 5/5 | Difficulty: 5/5 | Grade: A | Would take again: Yes
+"More than any other CS class here, this course is a test of your English/communication skills. The multiple choice questions will absolutely trip you up if you don't learn the meaning behind words, and are crafted to make wrong answers sound plausible. You are responsible for understanding all prerequisite mathematical material, i.e. little review."

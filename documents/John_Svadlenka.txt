@@ -1,0 +1,93 @@
+Source: John_Svadlenka
+URL: https://www.ratemyprofessors.com/professor/2485140
+
+Professor: John Svadlenka
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 1.5/5.0
+Difficulty: 4.3/5.0
+Would Take Again: 16%
+Number of Ratings: 164
+
+--- Student Reviews ---
+
+Course: CSCI340 | Date: 2026-05-29 | Rating: 1/5 | Difficulty: 4/5 | Grade: B- | Would take again: N/A
+"He puts questions on his test that he mentioned once in class. I suspect he just put the grades for our projects into a random number generator. This Lord Farquad looking dude is not the professor to sign up with. Avoid him at all costs."
+
+Course: CS370 | Date: 2026-05-27 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"This course involves intensive textbook reading and can be highly confusing. Because no resources or project guidelines are available online, attending lectures is mandatory. Svad has a weird tendency to talk during exams makes it hard to focus. I highly recommend choosing a different professor to avoid unnecessary stress."
+
+Course: CS340 | Date: 2026-05-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: B | Would take again: N/A
+"Students should always prepare for any class, but professors must make learning productive and enjoyable. Svad fails at both. Expect heavy textbook reading and constant confusion. Lectures are mandatory because absolutely nothing is posted online. Not even project instructions. He talks during exams. Save yourself the headache and avoid if you can."
+
+Course: CSCI340 | Date: 2026-05-05 | Rating: 1/5 | Difficulty: 5/5 | Grade: Incomplete | Would take again: N/A
+"Lectures are slow with vague topics, unclear explanations, and illegible writing. No electronics allowed. In-class problems and exams lack question texts; we only get answers, making review impossible. Project instructions aren't on Brightspace, forcing us to rely on oral lectures. Very poor teaching."
+
+Course: CSCI370 | Date: 2026-02-26 | Rating: 1/5 | Difficulty: 4/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"The material isn't hard, but the professor makes it difficult with ambiguous lectures. If there are other options, take them instead."
+
+Course: CSCI340 | Date: 2026-02-26 | Rating: 1/5 | Difficulty: 4/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Teaching is ambiguous and he speaks very quietly, so sit up front. Textbook readings feel like busy work since they aren't covered in class. He has a strict no-tech policy: you must take physical notes to be eligible for the grade curve. Hard to follow if you prefer digital organization."
+
+Course: CSCI340 | Date: 2026-01-07 | Rating: 1/5 | Difficulty: 4/5 | Grade: F | Would take again: N/A
+"Save yourself the time and trouble and don't take him."
+
+Course: CSCI313 | Date: 2026-01-07 | Rating: 1/5 | Difficulty: 4/5 | Grade: D | Would take again: Yes
+"Disagree with the review below. Exams are ambiguous and rely on memorization over actual understanding. He tests on random tangents mentioned in lecture to force attendance, making exams feel irrelevant to the core material. Projects are more tedious than hard. You can pass if you study but his teaching style makes it a real pain to be in the class"
+
+Course: CSCI313 | Date: 2025-12-28 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Quizzes and exams are straightforward. Roughly half are definitions, the rest are simple applications of concepts covered in class (e.g., drawing a heap after insertions). Projects are very manageable with generous deadlines. If you struggle here, you'll likely struggle more with other professors. This is one of the easier Data Structures sections."
+
+Course: CSCI340 | Date: 2025-12-25 | Rating: 1/5 | Difficulty: 4/5 | Grade: D | Would take again: N/A
+"This guy is the grinch."
+
+Course: CSCI313 | Date: 2025-12-23 | Rating: 1/5 | Difficulty: 4/5 | Grade: D | Would take again: N/A
+"Lectures are unorganized and the teaching style is unclear. Be prepared to teach yourself, and note that there is no extra credit. Take any other professor."
+
+Course: CSCI316 | Date: 2025-12-23 | Rating: 1/5 | Difficulty: 4/5 | Grade: C- | Would take again: N/A
+"The class is highly ambiguous, especially regarding exams; when asked for study topics, the instructor simply says "everything." His teaching style is difficult for most students to understand. Project requirements are vague, and he refuses to adjust grades even when instructions were unclear."
+
+Course: CSCI370 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 3/5 | Grade: F | Would take again: N/A
+"Having taken this course with a different instructor, the difference in quality is night and day. This professor's lack of teaching ability is glaring when compared to standard department practices. It's unfortunate how much the learning experience suffers here due to poor instruction and a lack of clarity."
+
+Course: CS340 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 4/5 | Grade: D- | Would take again: N/A
+"Easily my worst experience at QC. The professor creates a negative, demoralizing atmosphere and lacks professional integrity. He is consistently dishonest regarding course policies and grading. It feels like he's projecting his own frustrations onto the students."
+
+Course: CSCI313 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"If you're already stuck in this class, please be honest on your course evaluations. Don't feel pressured to provide a positive rating just for the promised extra credit, as the criteria to actually receive it are unrealistic."
+
+Course: CSCI340 | Date: 2025-12-18 | Rating: 1/5 | Difficulty: 4/5 | Grade: D+ | Would take again: N/A
+"Disappointed by the misleading extra credit offer. He promised a bonus for good evaluations but set an unreachable goal for the class to meet. This felt like an attempt to manipulate ratings rather than reward students. Very ego-driven environment; avoid if you value transparency."
+
+Course: CSCI313 | Date: 2025-12-16 | Rating: 1/5 | Difficulty: 1/5 | Grade: Not sure yet | Would take again: N/A
+"Dont expect mercy signing up for this guys class. Dude will make a project due, followed by a midterm next class, followed by a quiz 2 days later. Ask him whats gonna be on the final, "Everything we did since the first day". He started with a 2.4 when i began the semester and hes down to a 1.4 now - and going down even further. AVOID AT ALL COSTS"
+
+Course: CSCI340 | Date: 2025-12-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: D | Would take again: N/A
+"Hey, this is nobody, I'm graduated.
+
+Taking a class with John isn't a challenge, it's a headache and could torture you.
+
+Don't risk your GPA for likes or a thrill.
+
+Taking with him suffers. Run away. Stay peace.:)"
+
+Course: CS340 | Date: 2025-12-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"dont let your tuition go to this man's pockets who will ask you to study by yourself from books instead of teaching you, who will 99% to fail you"
+
+Course: CSCI316 | Date: 2025-12-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Any other professor is better than him, i drop his section after midterm, cuz i failed it and first 2 quiz. And i chose other prof for the next semester and passed with A."
+
+Course: CS340 | Date: 2025-12-08 | Rating: 2/5 | Difficulty: 5/5 | Grade: C | Would take again: N/A
+"His teach stay is really weird and hard to follow. After first month of the semester, over half of students disappeared and only came for quiz or exam. I went there every class still only got 70 for midterm. And the class average is like 40+, 75% of class fails. He wont give you ec even though he promised you something. You need study hard to pass."
+
+Course: CSCI313 | Date: 2025-12-08 | Rating: 1/5 | Difficulty: 5/5 | Grade: C- | Would take again: N/A
+"run away stay alive"
+
+Course: CS370 | Date: 2025-12-08 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: N/A
+"Probably he knows that he barely can teach you anything, so that he will ask you to read the textbook and learn by yourself. And he wishes you could spend at least 5 hours per day to study his course."
+
+Course: CSCI340 | Date: 2025-12-08 | Rating: 1/5 | Difficulty: 5/5 | Grade: D | Would take again: N/A
+"Dont wish to learn from his class and having extra credit or curse. Onlything ypu can do is study yourself and pray to pass"
+
+Course: CS370 | Date: 2025-12-08 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"Worst thing i did was not enroll in his class, it was that i trust him that if we leave good evaluation he will give us extra credit."

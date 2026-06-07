@@ -1,0 +1,63 @@
+Source: Russell_Gomes
+URL: https://www.ratemyprofessors.com/professor/2913678
+
+Professor: Russell Gomes
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 3.3/5.0
+Difficulty: 2.9/5.0
+Would Take Again: 47%
+Number of Ratings: 16
+
+--- Student Reviews ---
+
+Course: CSCI211 | Date: 2026-06-02 | Rating: 1/5 | Difficulty: 3/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"He is a lab instructor. He sometimes get a bit lost in his explanations. I would not recommend taking his section, as it does not always prepare you well for the exams. If you don't fully understand the material from the lecture, there is a high chance of struggling in the course. Choose somebody else."
+
+Course: CSCI211 | Date: 2025-08-05 | Rating: 1/5 | Difficulty: 5/5 | Grade: B+ | Would take again: N/A
+"Gomes was a terrible lab professor for CS 211, but surprisingly, Paul Cesaratti for CS 211 was good and far better based on what I saw in my friend's lab. Paul seemed to understand the material and could explain it, unlike Gomes, who often seemed lost. If anyone was signing up for a lab professor, take Paul you will def pass cs 211 with that guy."
+
+Course: CSCI212 | Date: 2025-08-05 | Rating: 1/5 | Difficulty: 4/5 | Grade: B | Would take again: N/A
+"Gomes was a terrible CS 212 lab professor. He didn't care if you attended and even seemed to prefer you didn't. While he tried to help, he clearly didn't know the material and often seemed lost on basic concepts. A lab professor should understand the content to effectively help students who need clarification."
+
+Course: CSCI212 | Date: 2025-04-26 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"He is Awesome. If you want to learn and succeed in future classes - Russel will teach the cs into you. &#10084;&#65039;"
+
+Course: CSCI211 | Date: 2025-04-25 | Rating: 1/5 | Difficulty: 4/5 | Grade:  | Would take again: N/A
+"Tough grader"
+
+Course: CSCI211 | Date: 2025-04-04 | Rating: 2/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"Mid. Isn't really a clear in his "lectures". Idk why people rating him high. He just recaps waxmans lectures. He does answer questions, sometimes understandable, sometimes he is just yappin fr. Harsh grader. He took attendance for like the first week or so and then stopped. Never responded to my emails. Take someone better trust me."
+
+Course: CSCI211 | Date: 2025-01-04 | Rating: 5/5 | Difficulty: 1/5 | Grade: A | Would take again: Yes
+"Amazing lab professor. Goes over exactly what you need to know for midterms and finals in his quizzes.  If you're having a hard time understanding the material, ATTEND HIS OFFICE HOURS. I retook this course with him as my lab professor, and he transformed my understanding. my grade went from a 'D' to an 'A'."
+
+Course: CSCI212 | Date: 2024-12-17 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"He is very caring as he was once a bachelor student at QC too. He is very helpful outside of class and very patient to go over the stuff in the lecture back at his lab. He tries to do the lab problem with the students in class unlike some lab instructors there. Plus, very helpful with the projects."
+
+Course: CSCI211 | Date: 2024-10-24 | Rating: 5/5 | Difficulty: 3/5 | Grade:  | Would take again: Yes
+"He's so handsome &#128525;. Very good lecturer and helps you understand what Waxman does in class. Only complaint is he definitely can be awkward with explanations so feel free to ask him to re-explain topics."
+
+Course: CSCI211 | Date: 2024-07-30 | Rating: 2/5 | Difficulty: 1/5 | Grade: A+ | Would take again: N/A
+"Grading approach is notably lenient and fair-minded, although the teaching style tends to be overly complex. One cannot help but feel that the laboratory sessions merely reiterate the content of previous Waxman lectures, without offering any meaningful additional insights. However, the Professor provides templates for projects."
+
+Course: CSCI211 | Date: 2024-06-10 | Rating: 3/5 | Difficulty: 4/5 | Grade: C | Would take again: N/A
+"Gomes is an okay instructor. He's mostly an echo chamber for Waxman and doesn't really say anything new. But his lab is good for asking specific questions or if you missed the lecture. He does seem to be very knowledgeable and is willing to help so I'll give him that. He also drops the lowest quiz score and gives out templates for projects."
+
+Course: CSCI211 | Date: 2024-05-22 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"Really nice guy. I took him for CSCI 212 so attendance wasn't mandatory. He shares a lot of resources and will help you when needed. Sometimes he over explains things and makes it sound confusing but you can ask him to clarify. Take him!"
+
+Course: CSCI211 | Date: 2024-05-22 | Rating: 3/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"He's a good guy, and it does seem like he knows what he's talking about, but it doesn't always come across clear and helpful. He cares and if you ask him for help he'd be able to explain topics better than in class. Ask Questions."
+
+Course: CSCI211 | Date: 2024-04-17 | Rating: 5/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"He is a great lab instructor who helps clarify the stuff we covered in lecture and actually wants you to do well. He tells us stuff we can actually use for real life and he's always giving us tips on jobs and stuff."
+
+Course: CSCI212 | Date: 2024-04-15 | Rating: 2/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"Nah, haven't learned anything from him. His explanation will mess you up completely. But he is a good guy tho."
+
+Course: CSCI212 | Date: 2024-02-20 | Rating: 2/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: N/A
+"Nice but dose not know how to teach at all. Waste of time."
+
+Course: CSCI111 | Date: 2023-08-14 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Professor Russell is very nice and respectful towards the students. He teaches every lab in a detailed manner. He is always ready to help you and give you extra credits. If you get him as a freshman, take him, you won't regret it. At least you will learn something about C++."

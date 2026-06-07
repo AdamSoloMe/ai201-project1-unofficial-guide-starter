@@ -1,0 +1,85 @@
+Source: Delaram_Kahrobaei
+URL: https://www.ratemyprofessors.com/professor/2870283
+
+Professor: Delaram Kahrobaei
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 3.9/5.0
+Difficulty: 2.5/5.0
+Would Take Again: 75%
+Number of Ratings: 23
+
+--- Student Reviews ---
+
+Course: CSCI220 | Date: 2026-06-06 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"Pretty decent professor. She teaches good, not many students listen. The exams are quite similar to the questions she goes over. If you want to learn, actually do the homework and participate in class. This class can either be your easy pass, or an enlightening time of learning the math behind cs. Very sweet lady, chat with her and be nice to her!"
+
+Course: CSCI220 | Date: 2026-05-29 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Majority of grade comes from tests which is easy if you just understand the concepts from the review sheet. For me it was 40% midterm, 40% final and 10% hw. Teaching is alright she basically lives off the review sheet and slide. You don't learn much, but you will get an A if you try."
+
+Course: CSCI220 | Date: 2026-05-29 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Professor Kahrobaei is a great professors here at QC. She definitely wants you to succeed in her class and gives you the building blocks to get good grades on her homework's and exams. I highly recommend her for anyone looking for an effective teaching style and supportive professor."
+
+Course: csci381 | Date: 2026-05-29 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"GOAT and inspiring"
+
+Course: csci381 | Date: 2026-05-07 | Rating: 5/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"Took her for PQC and just had to come here to pay my respects, her lectures are precious and she grades you very fairly, thank you for everything Professor!"
+
+Course: csci381 | Date: 2026-05-07 | Rating: 5/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"Took her for PQC and just had to come here to pay my respects, her lectures are precious and she grades you very fairly, thank you for everything Professor Kahrobaei!"
+
+Course: csci381 | Date: 2026-05-07 | Rating: 5/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"Took her for PQC and just had to come here and pay my respects, her lectures are precious and she grades you very fairly, thank you for everything Professor Kahrobaei!"
+
+Course: csci381 | Date: 2026-04-30 | Rating: 1/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"Honestly she does too much when it comes to attendance. She forced attendance in her class now. She'll only excuse you if you have a doctor's note. Why can't we be sick without one and recover at home. She's so strict with everything and not very approachable in class. She has her favorites in class."
+
+Course: CSCI220 | Date: 2025-12-28 | Rating: 4/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Grade structure is 50% midterm, 50% final. If you want an easy A, take this class with this professor. It's hard to fail when she gives you all the resources to pass the class, extra credit homework and review sheets that are extremely helpful for the exams. A lot of self studying is needed outside of this class to understand everything. Take her"
+
+Course: CSCI323 | Date: 2025-12-26 | Rating: 3/5 | Difficulty: 1/5 | Grade: A+ | Would take again: N/A
+"Got my A+.  Would repeat for another A+"
+
+Course: CSCI323 | Date: 2025-12-25 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"Dr, Kahrobaei is a caring professor, she genuinely wants students to learn and understand the stress and struggle of a CUNY student. She wants all of us to succeed."
+
+Course: CSCI220 | Date: 2025-09-03 | Rating: 5/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"One of the best professors in Queens college."
+
+Course: CSCI220 | Date: 2025-06-15 | Rating: 1/5 | Difficulty: 3/5 | Grade: Rather not say | Would take again: N/A
+"Used to be a good choice for CSCI 220 but not anymore. Calculators are now banned for all exams and her old grading curve from 2022/2023 got nerfed by Boklan. Even if the review sheets are similar to the exams, they are sometimes too vague to actually know what is going to be asked. You have to review and memorize every single little thing to pass."
+
+Course: CSCI220 | Date: 2025-06-11 | Rating: 1/5 | Difficulty: 4/5 | Grade: A- | Would take again: N/A
+"I learned so much from this professor, specifically how to memorize a bunch of slides and problems and their solutions without understanding a single thing. She can't teach, reads off the slides and expects you to understand. she thinks people are learning in her class but the only thing they are learning is how to memorize."
+
+Course: CSCI220 | Date: 2025-05-29 | Rating: 5/5 | Difficulty: 2/5 | Grade:  | Would take again: Yes
+"Easy class, just study the slides she goes over and do the review sheet."
+
+Course: CSCI220 | Date: 2025-05-28 | Rating: 1/5 | Difficulty: 3/5 | Grade:  | Would take again: Yes
+"Overrated professor, would not take again"
+
+Course: CSCI220 | Date: 2025-05-27 | Rating: 2/5 | Difficulty: 3/5 | Grade: B | Would take again: N/A
+"I expected more from Professor Kahrobaei based on her website and reviews, but the class is just memorizing slides and regurgitating them the day of exams. 95% of your grade is midterms and finals and 5% is extra credit, so mess up once and you're done. She only reads the slides, and gets annoyed if you ask a question, she does curve thou."
+
+Course: CSCI220 | Date: 2025-05-08 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Professor Kahrobaei is very nice and she only gives 1 midterm and 1 final. The tests usually has less than 10 questions with some multiple choice and some to solve on our own. Sometimes her explanations aren't the best but you could always ask her to clarify or read the textbook which her slides are from."
+
+Course: CSCI323 | Date: 2024-10-31 | Rating: 1/5 | Difficulty: 1/5 | Grade: A+ | Would take again: N/A
+"What did I learn ? Nothing. What grade I got -  A just like everyone else in the class. You want easy A take her for missing credits."
+
+Course: CSCI323 | Date: 2024-07-22 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"The GOAT.  She is leaving at the end of Fall 2024."
+
+Course: CSCI323 | Date: 2023-12-26 | Rating: 5/5 | Difficulty: 1/5 | Grade: A | Would take again: Yes
+"The BEST"
+
+Course: CSCI323 | Date: 2023-12-18 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"I have taken Professor Kahrobaei in her first semester at Queens College, Cs 220. I liked her and took her again for Cs 323. The class is easy. Some homework but not mandatory. Easy extra credit by solving the review sheet.There is a 50% final and 50% midterm grade distribution.
+Will definitely take her again. Wish she taught more courses."
+
+Course: CSCI220 | Date: 2023-10-28 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Great Professor! There are two exams, each worth 50%. If you come to class and study the review sheet, you will be fine."
+
+Course: CSCI220 | Date: 2023-03-23 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Professor Kahrobaei is really nice. she cares about her students. She is not a tough grader. she gives a lot of partial credit and her exams are almost the same as the review sheet she provides. Your grade depends on two exams 50/50. Her lectures could be boring but I would say you wouldn't regret taking her because her curve is amazing!!"

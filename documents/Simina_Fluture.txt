@@ -1,0 +1,88 @@
+Source: Simina_Fluture
+URL: https://www.ratemyprofessors.com/professor/513427
+
+Professor: Simina Fluture
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 2.6/5.0
+Difficulty: 3.6/5.0
+Would Take Again: 41%
+Number of Ratings: 276
+
+--- Student Reviews ---
+
+Course: CS344 | Date: 2026-06-01 | Rating: 5/5 | Difficulty: 1/5 | Grade: A- | Would take again: Yes
+"If you attend class Distributed Systems is very easy to get a good grade in. Most people in our class aced the final by barely studying for it lol. She's the GOAT"
+
+Course: CSCI343 | Date: 2026-05-30 | Rating: 1/5 | Difficulty: 5/5 | Grade: Rather not say | Would take again: N/A
+"343 content is already brutal and she doesn't make it much better. 3 exams+quizzes, group presentation, one HW, EC opportunities. lectures are confusing to the point where i taught myself entirely outside of her class. shes also often a pain to deal with. stay on top of every detail in this class on your own time like your life depends on it"
+
+Course: CSCI343 | Date: 2026-05-26 | Rating: 2/5 | Difficulty: 3/5 | Grade: B+ | Would take again: N/A
+"343 can be a difficult class if you are not clear on Computer Architecture topics covered in the Pre-Req course. I did not mind Fluture's lectures, but the worst part about her was her attitude and communication. Her assignments and exams are vague, with unsure expectations. She is also difficult to reach outside of her limited Office Hours."
+
+Course: CSCI343 | Date: 2026-04-01 | Rating: 1/5 | Difficulty: 4/5 | Grade: Rather not say | Would take again: N/A
+"Fluture seems to favor certain students and is not very approachable. She often comes off as rude and moody, which makes it difficult to ask for help. She's also a very harsh grader,if she doesn't like you, expect points to be taken off. I wouldn't take her again. Only manageable if you have access to past exams."
+
+Course: CS240 | Date: 2026-03-20 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"Never take her anyone I beg you. Come just because you don't know the answer to her questions means she has the authority to call you out and shaming you in front of everyone in the class. To be honest many of my class mates were called very bad things by her. VERY SAD that her having a Doctorate and making fun of students who just there to learn."
+
+Course: CS344 | Date: 2026-02-01 | Rating: 5/5 | Difficulty: 1/5 | Grade:  | Would take again: Yes
+"Between all the options you have for electives, this one is the blessing. All electives I heard except this one was hard for me. This is the first one where I not felt comfortable and could ace with very little effort. 100% take the distributive system with her."
+
+Course: CS344 | Date: 2026-01-24 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Absolutely goated. Helpful course topic to proceed further. Her curve and extra credits really helped a lot. I was way behind from a good grade and ended up with A+"
+
+Course: CS344 | Date: 2026-01-22 | Rating: 5/5 | Difficulty: 2/5 | Grade:  | Would take again: Yes
+"If you can get the 344, 100% take it. Easy elective to ace. Don't confuse it with other class, her CS344 is  a must take."
+
+Course: CS344 | Date: 2026-01-21 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"Before I took 343. That one was little difficult. But distributed system was really easy. I think this is the easiest elective I found. Take this class if you need a really easy elective which will be helpful in future too and thank me later. Highly recommending."
+
+Course: CS340ANDCS344 | Date: 2026-01-21 | Rating: 5/5 | Difficulty: 1/5 | Grade:  | Would take again: Yes
+"344 was really easy. Best pick I did till now. 340 was little different, but she gives so many opportunities and tests on several things, so I think you will be ok."
+
+Course: CS340 | Date: 2026-01-20 | Rating: 5/5 | Difficulty: 2/5 | Grade: A- | Would take again: Yes
+"The course 340 itself is hard at QC and it is because how CS dept designed it. But she prof made it much easier than other. Took another professor for this same course before and lit was so bad. But Fluture's class was way easier, thanks to professor Fluture how she taught and supported."
+
+Course: CS340ANDCS344 | Date: 2026-01-19 | Rating: 5/5 | Difficulty: 2/5 | Grade: A- | Would take again: Yes
+"GOATED...
+Take her."
+
+Course: CSC240 | Date: 2026-01-17 | Rating: 5/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"Probably the best option we have in this college. You will learn a lot and be well prepared for some next courses too. Highly recommended."
+
+Course: CSCI343 | Date: 2026-01-17 | Rating: 5/5 | Difficulty: 1/5 | Grade: A | Would take again: Yes
+"Great professor. Highly recommend her. Just take her and do yourself the favor. Take her before she leaves QC."
+
+Course: CS340 | Date: 2026-01-17 | Rating: 5/5 | Difficulty: 1/5 | Grade: B+ | Would take again: Yes
+"I could do better, but I can only blame myself for that. I am satisfied with the B+ anyway. I could not put enough effort. She tried her best. I loved how she taught. She made the exams really easy for us in this semester."
+
+Course: CSCI340 | Date: 2026-01-07 | Rating: 5/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"One of the smartest Professor at QC with solid understanding. Help you learn a lot, and I think for 340 she is much better than most of the available options we have at QC. Even offers extra credits when the class need it. So much helpful in office hour. I recommend her 100%."
+
+Course: CSCI343 | Date: 2025-12-29 | Rating: 1/5 | Difficulty: 4/5 | Grade: C | Would take again: N/A
+"She's clearly smart, but not very approachable and often extremely moody. Office hours felt uncomfortable, like questions weren't welcome, and it seemed she had favorites; the way she treated me felt very different. If you take her class, rely on online resources and past exams, especially if the exam format doesn't change."
+
+Course: CS340 | Date: 2025-12-28 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Took her for both 343 and 340. For 340, took this fall and honestly I learnt a lot. I'll remember her advices forever. She really wants us learn and do good in future. Only reason she's picky about projects is she really wants to us learn the concepts. Honestly materials of 340 at QC is hard, but she tries best to make it as convenient as possible."
+
+Course: CS343 | Date: 2025-12-28 | Rating: 3/5 | Difficulty: 4/5 | Grade: B | Would take again: Yes
+"Easiest way to pass is using the online resources for her class and memorizing. Helped big on Exams, quizzes and extra credit. Attending class helps a lot too. You can also improve your midterm grades on the final exam, if you didn't do well, so it is very manageable to get a C. Show you're putting in effort and you will pass."
+
+Course: CS343 | Date: 2025-12-25 | Rating: 4/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Tough class that is going to take a lot of time studying for. She is the best option for 343 though. Just use the study resources that are out there to practice similar problems on the exam. Do the extra credit, go to office hours, and attend class, and you will get on her good side. She can come off rude, but just have thick skin, you'll be fine."
+
+Course: CS340 | Date: 2025-12-16 | Rating: 2/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"This semester was my one of the worst semester because of this class. I spentt most of my time behind this class. Be ready to memorize stuff. We want us to write in her own way. She want people to ask question in class, but when someone ask she got angry. She is a tough grader. 2 HW, 2 projects, 2 midterms and final."
+
+Course: CS343 | Date: 2025-12-09 | Rating: 2/5 | Difficulty: 3/5 | Grade: C | Would take again: N/A
+"Future is a good professor, but she is a very harsh grader. She only accepts answers the way she taught in class. If it's anything different then she doesn't give grace points. She also gets very annoyed if you ask her any questions. 1 homework, 2 midterms, 2 quizzes, 1 presentation, and a final. Take her on your own risk."
+
+Course: CS340 | Date: 2025-12-02 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"DON'T TAKE IF YOU CARE ABOUT YOUR GPA AND YOUR SANITY!. Your exam grade depends on whether she woke up on the wrong side of the bed. She gets mad when you ask her questions even though its her job. Gave a random coding question about a project with multiple files and refuses to grade if wrong. I believe in witchcraft now because of this professor."
+
+Course: 340 | Date: 2025-11-25 | Rating: 2/5 | Difficulty: 4/5 | Grade: B- | Would take again: Yes
+"The only reason anyone takes Flu is because exams are the same each semester. Her lectures are pretty boring and uninspiring. You take the class to move on, not really learn anything. That said, you need to go to class and she'll mention what'll be on the exam, just need to parse it out between all the other random stuff. Def doable, just painful"
+
+Course: 340 | Date: 2025-07-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: B+ | Would take again: N/A
+"Fluture was once goated when she had the curve, but now with the random pop quizzes every couple classes and exam versions, i think CS department cracking down on her. More than half class struggled but thankfully I took anne-smith semester b4 so I was able to kinda understand her thick japanese accent."

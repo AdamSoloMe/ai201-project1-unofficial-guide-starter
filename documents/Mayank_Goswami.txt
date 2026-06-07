@@ -1,0 +1,87 @@
+Source: Mayank_Goswami
+URL: https://www.ratemyprofessors.com/professor/2195317
+
+Professor: Mayank Goswami
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 3.3/5.0
+Difficulty: 4.3/5.0
+Would Take Again: 56%
+Number of Ratings: 44
+
+--- Student Reviews ---
+
+Course: CSCI328 | Date: 2026-05-31 | Rating: 5/5 | Difficulty: 5/5 | Grade: A | Would take again: Yes
+"Hard course, but nothing to complain. You suppose to study in order to pass the course. It is not like some other courses that you can easily pass. Even with a C, you have to put some effort on it. Professor. Goswami knows what he is doing and he likes students to ask questions during the lectures."
+
+Course: CSCI700 | Date: 2026-05-30 | Rating: 5/5 | Difficulty: 5/5 | Grade: A | Would take again: Yes
+"He teaches hard courses, do not expect to pass if you don't study. His lectures are well explained and cover most of materials that will be on the exams. His exams are hard, but you will be fine if you willing to study."
+
+Course: CS323 | Date: 2026-02-18 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"Overrated prof."
+
+Course: CSCI328 | Date: 2026-02-18 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"He keeps saying that the course is difficult, but I think he's  the one making it harder by doing a poor job teaching. The cls is hard, but it's doable. The entire cls remains silent, and not all students r weak common sense tells you that. The department should consider changing the professor, and then students would likely do much better."
+
+Course: CSCI328 | Date: 2026-02-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"This course is literally advanced probability and is extremely hard to follow & very boring helpless lectures.Doesn't show how to apply the concepts to problems and leaves that entirely to students.Doesn't even provide organized notes for students to study on their own, so I feel lost and unsure of what I am doing in this class.Entire cls is lost."
+
+Course: CSCI328 | Date: 2026-02-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"It feels like he is teaching as if we already know everything, more like collaborating with colleagues than teaching students. He uses previously written, very messy notes during lectures, which are hard to follow. It's frustrating to struggle in a course because of poor teaching rather than the difficulty of the subject itself."
+
+Course: CS323 | Date: 2025-06-02 | Rating: 1/5 | Difficulty: 4/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Took this class because people said, &#8220;Take him if you're good at Math.&#8221; Bad advice. No resources, no reviews, just textbook problems that didn't match the midterm or final, the only things you're graded on. Lectures were confusing. You will pass somehow, but overall very confusing. Somehow, he's better than most at QC, but still frustrating."
+
+Course: CSCI323 | Date: 2025-05-28 | Rating: 5/5 | Difficulty: 4/5 | Grade: B | Would take again: Yes
+"Professor Goswami is a very good professor. He knows exactly where students tend to struggle and is able to guide them and clearly explain algorithms. However, his exams are difficult, but he'll curve the grades based on your performance, as long as you put in the effort and show improvement, he'll notice your hard work and won't easily fail you."
+
+Course: CSCI328 | Date: 2025-05-28 | Rating: 5/5 | Difficulty: 5/5 | Grade: C | Would take again: Yes
+"dude's a Math Jedi. awesome professor, but hardest class I've ever taken. absolutely recommend if you're solid in math, but even if you're not good at math, his lectures are phenomenal. you'll be putting in WORK though, like WORK work."
+
+Course: CSCI328 | Date: 2025-04-02 | Rating: 3/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: Yes
+"Taking CS328 Algorithms for Big Data. I don't recommend anyone take this class unless your a masochist, way too difficult for an undergrad class. A lot probability and you need to put in way too much time outside the class to learn the material and even then you still wont understand it. Prof is fine. 2 tests worth 40% each and 20% notes"
+
+Course: CS323 | Date: 2023-01-05 | Rating: 5/5 | Difficulty: 4/5 | Grade: A- | Would take again: Yes
+"If you really want to learn then take him. He is an amazing professor who is extremely intelligent, knows what he is teaching and generous with his time. He holds a lot of office hour. Even though your grade depends on just two exams but his curve is crazy. He really cares about his students, and understanding the concepts."
+
+Course: CS323 | Date: 2022-09-02 | Rating: 1/5 | Difficulty: 3/5 | Grade: A- | Would take again: N/A
+"He is test heavy and uninterested in actual learning. He is unnecessarily rude to speak with and make you feel terrible when concepts are unclear. Would never recommend him."
+
+Course: CS323 | Date: 2022-05-24 | Rating: 2/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"He grades purely on his exams. No mandatory HW but if you want to do well I guess you should do it. The average of the midterm for our class was 23/100. And we only found out about this when we were a month away from finals. I didn't want to risk a D or a C- since I need a minimum of a C so I dropped him. If you are good in math take him. If not X"
+
+Course: CSCI323 | Date: 2022-01-15 | Rating: 1/5 | Difficulty: 5/5 | Grade:  | Would take again: No
+"He teaches well and is very knowledgeable about the topic, but he doesn't know how to assess students properly on his midterm and final. The average was in the 20's, and that is not the students' fault, but rather the instructor's fault. He curves, but his grading scheme he came up with his TA was brutal. Only take if youre good at math and proofs"
+
+Course: CS323 | Date: 2021-12-28 | Rating: 3/5 | Difficulty: 5/5 | Grade: B | Would take again: No
+"He's nice enough and generally good at explaining concepts but if you aren't a good test taker this class will be STRESSFUL. Slow grader with unclear grading criteria (midterm average was in the 20s and he refused to say what the curve would be). Not the worst option for 323 but proceed with caution."
+
+Course: CS381 | Date: 2021-12-11 | Rating: 4/5 | Difficulty: 5/5 | Grade: B- | Would take again: No
+"Brilliant and kind professor, but CS381 Big Data is extremely Math heavy. If you don't like advanced probability, proofs and theory then avoid this class. Walked into this class with a 3.7 GPA, never worried about failing a class until I took this one. Goswami is a great teacher, but labeling this class as CS is misleading. Wish I'd skipped this"
+
+Course: CSCI381 | Date: 2021-12-09 | Rating: 4/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"He provides a hard but interesting class. Make sure you read and understand all the homework he assigns, or you won't pass. If you are looking to get involved in research or cutting edge techniques this is the professor to take. He offers chances for his students to get involved in his or his other students research."
+
+Course: CS323 | Date: 2021-10-01 | Rating: 4/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"He is a really good professor. But the class itself is extremely difficult, and theoretical. You'll need to spend a lot of time understanding the algorithms and doing examples, or else you'll fail. No doubt."
+
+Course: CSCI381 | Date: 2021-07-01 | Rating: 5/5 | Difficulty: 5/5 | Grade: B | Would take again: Yes
+"After taking his 323 and then Algo. for big data class. I can confidently say that this man can slap me and I would kindly ask for another, in hopes that his big brain IQ rubs off on me because holy **** was his class difficulty level was to the moon. I learned so much in his two classes that his words are like the word of god to me. Take his class"
+
+Course: CSCI323 | Date: 2021-05-28 | Rating: 5/5 | Difficulty: 3/5 | Grade: C+ | Would take again: Yes
+"One of the best professor in queens college. Explanation of Algorithms is the best. He is very passionate and care for his students."
+
+Course: CS381 | Date: 2021-05-24 | Rating: 5/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"He is God to me. Very helpful when it comes to teaching and helping the student. His level of intelligence is to the moon. Love his lectures and his way of explaining all the difficult topics so easily. He is just superb than any other professor in Queens college. Not only, queens, he can teach the whole world, what algorithm should be like."
+
+Course: CS323 | Date: 2021-04-08 | Rating: 3/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: No
+"He's one of the few professors that can explain very well. He's willing to help you. Unfortunately I wasn't ready to take this course this semester. For those who have a strong background in data structures, I recommend him if you're not going to be taking a full load of CS300 level classes in one semester."
+
+Course: CS323 | Date: 2021-03-03 | Rating: 3/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: Yes
+"He is a good prof, teaches well. But his exams are out of this world. Unless you give your more than 100% you won't pass the class. The entire class rides on just two exams. So you better do well on them. But if you wanna learn, he is the one."
+
+Course: CS381 | Date: 2020-12-24 | Rating: 2/5 | Difficulty: 5/5 | Grade:  | Would take again: No
+"This is a probabilities heavy class. Goswami is great for lectures however his exams are unnecessarily difficult to the point where the class average is expected to be low. Didn't get back midterm grades until a week before the final. If you want to learn take him but don't expect a good grade."
+
+Course: CSCI323 | Date: 2020-12-24 | Rating: 1/5 | Difficulty: 5/5 | Grade: C | Would take again: No
+"The whole class rides on two exams and a 1 on 1 oral quiz, never graded any of it or at least told us the grade. This class is literally all math so if math isn't your thing avoid, if you don't MASTER the algorithms you will fail. His priorities are also clearly elsewhere as he was constantly late, scheduled a 1-1 quiz and he literally didn't show."

@@ -1,0 +1,87 @@
+Source: Robert_Goldberg
+URL: https://www.ratemyprofessors.com/professor/446485
+
+Professor: Robert Goldberg
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 2.8/5.0
+Difficulty: 3.5/5.0
+Would Take Again: 40%
+Number of Ratings: 86
+
+--- Student Reviews ---
+
+Course: CSCI313 | Date: 2026-05-28 | Rating: 2/5 | Difficulty: 3/5 | Grade: A | Would take again: N/A
+"Extremely unorganized class until the very end, tons of busy work worth single-digit percentages that accumulate to your grade, and overcomplicated the syllabus course structure into over a dozen Excel files. Only takes notes on Excel, coding projects were intuitive, but a little difficult with vague instructions. Nice guy, but hard to learn"
+
+Course: CSCI370 | Date: 2026-04-20 | Rating: 1/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: N/A
+"Worst CS professor in Queens College. The amount of redundant work is just insane. End of semester in 3 weeks and we still haven't received a single grade. He does everything online but refuses to use the automated grading system on multiple choice question tests! The submission steps for a single file are a 10 step nightmare of manual work."
+
+Course: CS370 | Date: 2026-03-08 | Rating: 1/5 | Difficulty: 4/5 | Grade:  | Would take again: N/A
+"There is no clear syllabus or direction for this class at all. The instructions are spread out and so convoluted, overexplained to the point of confusion. If you don't mind clicking through 15 (no exaggeration) Excel files to figure out what the homework is, this might be the class for you"
+
+Course: CS370 | Date: 2025-11-06 | Rating: 1/5 | Difficulty: 4/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"Just a waste of time like all professors, however he makes you do very tedious definition assignments. These assignments take around 2 hours if you are bs-ing it and you have 5 of them due within the first month. He floods ur emails non-stop 2 emails a day and with constant reminders about assignments. skip class but don't skip open-book quizzes."
+
+Course: CS381 | Date: 2025-07-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: B+ | Would take again: N/A
+"I thought this class would be a cake walk, but he changed the curve to Boklan's to limit number of A's! You'll be competing with every student. I was able to finesse since i went to his office hours after every class and spam random questions. Just be careful because he will give random quizzes since people don't show up. Good luck......"
+
+Course: CS335 | Date: 2025-07-29 | Rating: 1/5 | Difficulty: 5/5 | Grade: B- | Would take again: N/A
+"Do not take, I thought his exams were in online however, that was not the case. It was wayy to hard, completely overrated."
+
+Course: CS220 | Date: 2025-04-30 | Rating: 2/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"Incredibly tedious assignments, his syllabus is also very overcomplicated."
+
+Course: CS220 | Date: 2024-05-24 | Rating: 5/5 | Difficulty: 3/5 | Grade: B | Would take again: Yes
+"He has a strong passion for teaching and is very kind towards his students. He gives a lot of curves, and both the quizzes and the final exam are online. However, the assignments are overwhelming and he needs to understand that we have other classes to deal with. There is one project, which isn't too bad. Overall, it's an easy pass."
+
+Course: CSCI370 | Date: 2024-05-18 | Rating: 5/5 | Difficulty: 1/5 | Grade: A | Would take again: Yes
+"Very easy A it was just a lot of work. He assigned so many assignments but they were all assigned in the beginning of class and spread out. His lectures are fun and interesting. The classroom just always smelt like bad for some reason. All the quizzes and final are online so that was a plus."
+
+Course: CS335 | Date: 2024-01-03 | Rating: 5/5 | Difficulty: 1/5 | Grade: B+ | Would take again: Yes
+"never disappointed me once. always passes me. I didnt go to a single class besides the first one yet managed to get Bs each time with minimum work. All exams and quizzes were online. Take him."
+
+Course: CS381 | Date: 2023-12-21 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Project is 6%, I skipped it and got an A. There is a tremendous curve! All exams were online. Also, have all the excel/notes open and cntrl f to find his exact wording in his notes to answer exam questions. You don't need to attend class, all excel notes are posted after class, and exams come right from them."
+
+Course: CS381 | Date: 2023-12-17 | Rating: 4/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"He's one of those hidden gems at QCCS. If you thought of any other professor that can potentially  be as lenient as Teitelman, he is definitely up there. He has alot of work which is worth 24-30% of your grade, but as long as you do all of it and get a score on his quiz/final you'll be fine. He curves very generously. Take him for any cs elective"
+
+Course: CS381 | Date: 2023-12-15 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"He seems to genuinely care about his students. He does give a lot of outside work but it's not too difficult. Also his quizzes and final are not too tough if you pay attention in class and read his lecture notes. He also usually curves the quizzes and final and then again for the final grade too. Not hard but a lot to do."
+
+Course: CS335 | Date: 2022-12-16 | Rating: 5/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"I had Dr. Goldberg for an online course. He's a great and fair professor who gave us generous curves on grades. Yes, there are lots of homeworks/assignments due but if you grind them out and do everything, you should be able to pass. I personally didn't do the projects & if you plan on doing the same make sure to do well on everything else."
+
+Course: CS381GA | Date: 2022-08-03 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"No idea why his ratings are so low Goldberg is the man! He assigns a lot of busy work but as long as you do it the class is literally impossible to fail. Curves all the quizzes and exams generously and also curves the final grade a bit. It may seem like a lot but the assignments are basically free points so do them and you'll be fine. Great prof."
+
+Course: CS381 | Date: 2022-02-16 | Rating: 3/5 | Difficulty: 3/5 | Grade:  | Would take again: No
+"gave a lot of repetitive boring work, but he was quite generous with the grading"
+
+Course: CS3813GENALG | Date: 2021-08-24 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Professor Goldberg is a very nice professor. Although he assigns a lot of hw but it is doable and as long as you do it he gives full credit. He is a type of professor that sees that if you put effort you should get credit. If you do all the work assigned by him its an easy A class. He always curves his quizzes and exams."
+
+Course: CS370 | Date: 2021-05-28 | Rating: 4/5 | Difficulty: 4/5 | Grade: A- | Would take again: Yes
+"This guy teaches 370 in a very unique way. The coding assignments were lengthy but worth nearly nothing. I got an A- in the class even though I didn't do any of the coding assignments. Goldberg aims to test your ability to retain info from his lectures and to complete a lot of work in a short amount of time. It was annoying, but a very doable class"
+
+Course: CS3813GENALG | Date: 2020-12-13 | Rating: 3/5 | Difficulty: 3/5 | Grade:  | Would take again: No
+"My only real complaint about Professor Goldberg is he gives SO MUCH BUSY WORK. Every time I was filling out keyword definitions, writing multiple choice questions, watching hours of biology videos, writing a PowerPoint, cleaning up other students' notes from prior semesters, all I could think was, &quot;If only I had time to actually study.&quot;"
+
+Course: CS370 | Date: 2020-09-01 | Rating: 4/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"I graduated from Queens College in 2019. While I was taking Goldberg's class, little did I know why he was putting us through so much work as he does. Now as I am working in a company that strictly follows agile methodology, I realized how his class was setting me up for real work experiences. Pay attention in his class guys. Will worth it."
+
+Course: CSCI381 | Date: 2020-07-28 | Rating: 1/5 | Difficulty: 2/5 | Grade: A | Would take again: No
+"He gave repetitive, boring lectures with long, rambling tangents. Most lectures were not on the course topic. We had massive amounts of pointless graded busywork. The assessments often contained useless trivia. He frequently makes mistakes with word choice, spelling, and grammar, and sometimes teaches incorrect information. Avoid him at all costs!"
+
+Course: CS370 | Date: 2020-03-23 | Rating: 1/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: No
+"He is awful. If you care about your sanity DO NOT TAKE HIM. Example of one of his assignments: Watch 2 hours worth of videos, compile all key terms and descriptions. Took 7+ hours, for 1.25% of the total grade. And this has to be done 4 times throughout the semester, including a few more ridiculous assignments like this. DO. NOT. TAKE. HIM"
+
+Course: CS370 | Date: 2020-03-02 | Rating: 1/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: No
+"This professor is the absolute worst. Im writing this as a straight A student who puts an extreme amount of effort into her classes. Robert Goldberg is an academically abusive Professor. Gives students an extreme amount of work for little credit. Expects students to read the Million emails he sends immediately and treats students like garbage."
+
+Course: CS370 | Date: 2019-12-29 | Rating: 3/5 | Difficulty: 3/5 | Grade: B | Would take again: No
+"This guys assigns a LOT of HW. There also is a massive project which must have at least 1000 lines of code. There are 4 quizzes and a final which are not too difficult if you are good at memorizing. Just know that he assigns a LOT of HW. a LOT"
+
+Course: CSCI48 | Date: 2019-12-14 | Rating: 2/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: No
+"Lectures don't really tie-in with the lab portion of the course. HW assignments (5%), Note-taking for entire class (twice for a total of 5%), list of key terms from class maintained throughout course (5%), 2 quizzes (10% each). Lab was 35% taught by a different professor. Final exam (30%) - all M/C."

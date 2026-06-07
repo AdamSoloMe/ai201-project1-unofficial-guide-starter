@@ -1,0 +1,89 @@
+Source: Paul_Cesaretti
+URL: https://www.ratemyprofessors.com/professor/2354095
+
+Professor: Paul Cesaretti
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 3.1/5.0
+Difficulty: 4.0/5.0
+Would Take Again: 53%
+Number of Ratings: 59
+
+--- Student Reviews ---
+
+Course: CSCI211 | Date: 2026-06-02 | Rating: 1/5 | Difficulty: 5/5 | Grade: Drop/Withdrawal | Would take again: N/A
+"He seems like a nice person, but he reads the slides and doesn't provide much additional material to help you prepare for exams. Exams feel unpredictable, and I've never seen him run code during lectures. I would not recommend choosing lab instructor Russel Gomes, as there is a high chance of struggling in the course or doing poorly on the exams."
+
+Course: CS212 | Date: 2025-12-31 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"I didn't have him as a Lecture prof but as a lab prof and let me tell you as a Lab prof he's an absolute goat. I've had people say he's a mid lecture prof but as a Lab he's really good. Explains everything very clearly and for the lab projects he pretty much gave us all the code and we just had to implement very little."
+
+Course: CSCI381 | Date: 2025-12-22 | Rating: 3/5 | Difficulty: 5/5 | Grade: B- | Would take again: N/A
+"Ok Professor. Must take notes in class and study noted to do well. Very hard class but curve makes it okay. As long as you study and memorize the notes from class youll be fine. But hard class, no homework and only 2/3 exams for the entire semester"
+
+Course: CS722 | Date: 2025-12-22 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"The professor did an excellent job teaching the material. He explains concepts by connecting them to real-life scenarios, which makes it easier to identify and understand problems. His approach to solving problems is much clearer than the textbook's explanations and helped me grasp the material more effectively. He is professional and knowledgeable"
+
+Course: CSCI381 | Date: 2025-12-22 | Rating: 3/5 | Difficulty: 5/5 | Grade: A- | Would take again: Yes
+"Genuinely a nice guy and a nice professor. Seems very knowledgeable and passionate about the topic he teaches. Only advice I would give is that his lectures doesn't feel very concise. They are often filled with &#8220;too much detail&#8221; that can confuse you. Also he doesn't really post any note. So get ready to go to class and write 4+ pages per day."
+
+Course: CS220 | Date: 2025-12-21 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"Seems like a nice guy but he genuinely never gave us a heads up for the finals"
+
+Course: CS220 | Date: 2025-12-16 | Rating: 5/5 | Difficulty: 5/5 | Grade: B+ | Would take again: Yes
+"The program he implements to teach this class is well-suited to prepare students for upcoming CS courses. Also, the grading scale encourages consistent effort throughout the semester and allows students to see the results of their work at the end. I feel that I truly learn from his classes, and earning a good grade is achievable with effort."
+
+Course: CS325 | Date: 2025-12-14 | Rating: 1/5 | Difficulty: 5/5 | Grade: F | Would take again: N/A
+"Hard. Feel undoable"
+
+Course: CSCI368 | Date: 2025-08-23 | Rating: 4/5 | Difficulty: 3/5 | Grade:  | Would take again: Yes
+"He is a very kind professor that cares that you are understanding what he lectures about. He is always open to questions and presents things in a clear manner that is not too fast-paced. The class had 2 tests  with an optional project. He outlines what will be on the test a week before so that there are no surprises on the exam. Great guy!"
+
+Course: CS325 | Date: 2025-08-21 | Rating: 5/5 | Difficulty: 3/5 | Grade: Rather not say | Would take again: Yes
+"Professor tries his best to help you understand the concepts. Attending lectures, reading textbook, and reviewing class notes helps. I would recommend him. He wants to see all his students succeed."
+
+Course: CS325 | Date: 2025-08-21 | Rating: 5/5 | Difficulty: 4/5 | Grade: B- | Would take again: Yes
+"Took him for summer machine learning.Its a difficult class in terms of the material but he tries his best to break it down for you and it being a summer class didn't help. The tests are straight forward, he only tests you on your understanding of the concepts, wont ask you to do proofs or anything else. Large Curve but you need to put in the effort"
+
+Course: CS220 | Date: 2025-05-26 | Rating: 5/5 | Difficulty: 4/5 | Grade: C | Would take again: Yes
+"All those 1 reviews are outdated. He now curves insanely well (before he said he didn't). You need a 55 for a C and he even adjusted my class's requirement so that all you needed to pass was a 55 on the final ALONE (Though there is no guarantee he will do this for yall). Original grade split is 2 mid terms 30% ecah and the final is 40%."
+
+Course: CSCI323 | Date: 2025-05-24 | Rating: 5/5 | Difficulty: 3/5 | Grade: B | Would take again: Yes
+"He is a really good professor who actually enjoys teaching. Very approachable and answers all questions. He will let the class know what topics he will test on so you are ready for the exam. He does 3 exams so you will learn a lot."
+
+Course: CS323 | Date: 2025-05-24 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"He understands what it's like to be a student. Lectures are well-structured, takes the time to explain concepts thoroughly & will go over multiple times Class includes a generous grading curve and exams always come with extra credit typically graded out of 120&#8211;130 points makes a big difference and reflects how much he wants his students to succeed"
+
+Course: CS323 | Date: 2025-05-15 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"Great Professor! Very passionate and eager to explain whatever you don't understand. Not quite an easy class but if you really put in the work and attend his lectures regularly, you will cruise through the class. Attendance is not mandatory but you're better off not skipping them because a majority of exam questions will be based on lectures."
+
+Course: CS323 | Date: 2025-05-15 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Paul is a professor that gets what it is like to be a student. His class has a generous curve and also the tests ALWAYS have extra credit as in 100/120-130 points. Lectures like a champ, takes the time to go over examples multiple if need be. this is a 300 level course do the work and you'll pass. Avoid if you want to never show up and still pass."
+
+Course: CSCI323 | Date: 2025-05-09 | Rating: 1/5 | Difficulty: 5/5 | Grade: Not sure yet | Would take again: N/A
+"He said "The test your professor gave you was the easiest test I've ever seen", how ignorant of a statement to make as a professor to students who are learning it for the first time (the low class average after that test should say enough) bro lacks proper empathy, AVOID if you don't want to get screwed over by his no remorse unforgiving tests"
+
+Course: CS220 | Date: 2024-12-26 | Rating: 4/5 | Difficulty: 4/5 | Grade: A- | Would take again: Yes
+"His exams are challenging, typically ranging from 130 to 140 total points, with a score of 80 or higher required to achieve an A. Attendance in lectures is crucial, as many exam questions are directly based on material covered during class. It is also essential to complete all ASSIGNED textbook problems, as they reinforce/ come up on exams."
+
+Course: CS313 | Date: 2024-12-19 | Rating: 4/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"I personally enjoyed Paul's lectures, he explains the materials well & occasionally cracks jokes. Attendance not mandatory & no homework, but if you miss a class you'll be far behind. No notes posted online, only supplemental material. Only things graded are exams, so if you dont show up, you wont pass. If you do, you learn a lot of valuable stuff."
+
+Course: CS220 | Date: 2024-12-09 | Rating: 1/5 | Difficulty: 4/5 | Grade: Incomplete | Would take again: N/A
+"They say a good professor is one who is clear, succinct, and simple; this is one who will overcomplicate things to give artificial difficulty in the class."
+
+Course: CS220 | Date: 2024-11-09 | Rating: 4/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: Yes
+"Early review- but grades only on exams (2 + final). Although attendance isn't mandatory, miss one class and you'll fall behind really fast! Overall I actually enjoy his lectures- sometimes throws in some jokes or digestible examples of scenarios depending on the unit to understand it better. Do the problem sets and really try understanding them!"
+
+Course: CS220 | Date: 2024-08-15 | Rating: 5/5 | Difficulty: 4/5 | Grade: B+ | Would take again: Yes
+"I did very poorly on the first exam; I thought the material was unfair, but it was a lack of doing the assignments he gave. Utilize office hours, do all the questions, and truly understand the approach ( or some for partial credit ), and you should do fine. I got an F on my first exam, and an A on my final, so the underdog story is real. Great Prof"
+
+Course: CS323 | Date: 2024-08-14 | Rating: 5/5 | Difficulty: 4/5 | Grade: Rather not say | Would take again: Yes
+"I highly recommend taking any class you can with Paul. He's a great teacher and one who's passionate about the material. His classroom is inviting, and during every lecture, he'll ensure everyone understands the concepts before moving ahead. Bonus - the textbook he bases his lectures on is one of the best! Don't be afraid to ask questions!"
+
+Course: CS323 | Date: 2024-08-02 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"He is a great professor, always taking the time to answer student questions. He clearly loves the subject and it shows in his lectures.
+
+Tests are fair, and is usually within the material covered in class. Most questions are easy, but there are also a few discriminators , and usually 20 points worth of bonus questions are available in the exams."
+
+Course: CS313 | Date: 2024-07-18 | Rating: 1/5 | Difficulty: 5/5 | Grade: B+ | Would take again: N/A
+"If you took 212 lightly, i can see why this is hard since he mixes complex coding with proofs, but otherwise its not a terrible class. since you need to memorize proofs for the exams, youll need to at least an hour after each class to properly digest it. Good luck, youll need it"

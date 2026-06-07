@@ -1,0 +1,87 @@
+Source: Jackson_Yeh
+URL: https://www.ratemyprofessors.com/professor/1082596
+
+Professor: Jackson Yeh
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 4.2/5.0
+Difficulty: 2.8/5.0
+Would Take Again: 82%
+Number of Ratings: 76
+
+--- Student Reviews ---
+
+Course: CSCI240 | Date: 2026-05-28 | Rating: 4/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"2 quizzes you can do multiple times to get 100%, a midterm and final, and a Logisim project, which he goes over in class. Very straightforward teaching; good examples to practice during class. The content can be difficult even if it's online; you definitely should take notes (exams are open-book). Wants students to do well and participate."
+
+Course: CS240 | Date: 2025-12-16 | Rating: 4/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: N/A
+"grade consists of pretty much quizzes, a project (consisting of a circuit board he largely goes over in lecture,) and 2 exams. content is a little difficult but the course is made easy to pass"
+
+Course: CS240 | Date: 2025-07-10 | Rating: 5/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"Took him for 4 week summer which is VERY accelerated. Open notes midterm and final. Circuit project we did 80% together so that was free 100. Advice: BRUSH UP ON UR BINARY. It's used the whole class and he speeds through it. His lectures are too fast to write everything down in a notebook (I tried) so I suggest just taking notes on the pdf itself."
+
+Course: CS240 | Date: 2025-05-28 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Good professor, the hardest part of the class was the logism project. Everything online and he gives good lectures"
+
+Course: CS240 | Date: 2024-12-17 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"The class is online. Dr. Yeh records all lectures and posts them so you can rewatch them if you miss class. Try your best not to fall back as concepts tend to build upon one another. Overall, class not too difficult as the exams/quizzes are online. Hardest part is the project in logisim. Otherwise, he is the best choice for 240 at QC, hands down."
+
+Course: CS240 | Date: 2024-12-14 | Rating: 5/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"Professor Yeh, the goat. Just take his class. He has two exams (midterm and final), both open-book and online, and the circuit project is manageable. His lectures are recorded. Reviews say he is rude, but he was never rude, people are just soft. A chill professor and one of the best in the QC CS dept. I know people struggling with other professors."
+
+Course: CS240 | Date: 2024-05-18 | Rating: 5/5 | Difficulty: 1/5 | Grade: A- | Would take again: Yes
+"Honestly, I enjoyed his lectures. He was very to the point and taught you what you needed to know. His letter curve at the end is also very nice! Make sure to watch the lectures and keep up with the work! Overall, an amazing professor!"
+
+Course: CS240 | Date: 2023-12-14 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"he's really good for the class, except with MIPS because its harder. does not respond to emails, but his lectures are clear. the project is very easy, and he explains everything so well!! The midterm was a joke (just on the first chapter), the final is a bit more difficult, but everything is online and he lets you use your notes."
+
+Course: CS240 | Date: 2023-10-28 | Rating: 4/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Great professor. Explains things clearly. The class consists of 1 project and 2 exams."
+
+Course: CSCI240 | Date: 2023-08-27 | Rating: 3/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"Overrated instructor who does his job in ways that are most convenient to himself. Students' learning comes secondary. Some students happen to benefit from it and most are hurt. No wonder everyone had such a rude awakening looking at their exam results. Nonetheless, he's still better than most of the other CS instructors."
+
+Course: CS240 | Date: 2023-08-25 | Rating: 5/5 | Difficulty: 4/5 | Grade: C+ | Would take again: Yes
+"Recordings really help understand the material. He will curve scores to help you!"
+
+Course: CSCI240 | Date: 2023-08-21 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"There is a curve on the overall grade. Textbook is not needed to do well. Recordings are enough to help understand the material. Very lenient on project deadlines. Clarifies unclear material & answers question very well during class. At times he takes a while to respond to emails or does not at all respond to them. He can be sarcastic & humorous."
+
+Course: CS240 | Date: 2023-07-01 | Rating: 5/5 | Difficulty: 3/5 | Grade: C+ | Would take again: Yes
+"Straightforward grading and goated professor. Just remember to review and you can get a good grade. YEH GANG 2023!"
+
+Course: CS240 | Date: 2023-06-30 | Rating: 5/5 | Difficulty: 3/5 | Grade: F | Would take again: Yes
+"GREAT PROFFESOR!! Just don't do any funny bussiness during the exams like no cams during exams or being buck naked. 2 exams, 2 quizzes and a project. For the summer class I took, he waived the project because it was just a 4 week course. Easy A if you study the class slides."
+
+Course: CSCI240 | Date: 2023-06-30 | Rating: 5/5 | Difficulty: 3/5 | Grade: B+ | Would take again: Yes
+"Goat!!!!!!!!!!!"
+
+Course: CS240 | Date: 2023-06-30 | Rating: 5/5 | Difficulty: 2/5 | Grade: A | Would take again: Yes
+"Can't say anything more about this professor other than the fact that he is the GOAT. He is the best option for 240, especially during the summer, and he teaches in a way that is very easy to understand. He also records lectures and the exams were pretty fair. One of the only good CS professors in the department, could never ask for more."
+
+Course: CS240 | Date: 2023-06-30 | Rating: 5/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"Simply the greatest professor of all time. No one even comes close."
+
+Course: CS240 | Date: 2023-05-26 | Rating: 4/5 | Difficulty: 1/5 | Grade: A | Would take again: N/A
+"Take if you want an easy A but prepared to be bored out of your mind learning about number representation in a machine for 1.5 months."
+
+Course: CSCI240 | Date: 2023-05-24 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"Is very clear during lectures and has a clear grading criteria. Two exams, one project, and quizzes (free grade). He records lectures so participation doesn't matter however you should still make sure you're not behind or else you'll struggle. Exams were moderate. Overall, a decent professor who can teach properly!"
+
+Course: CSCI240 | Date: 2023-04-06 | Rating: 4/5 | Difficulty: 1/5 | Grade:  | Would take again: Yes
+"Yeh definitely knows his stuff, but I wish we didn't waste so much time on learning binary and logic gates. Would have preferred to do assembly, but I guess he believes there is some use to dedicating over 2/3rd of the semester on this stuff. Exam was very fair, there's also a project in his class that you shouldn't have a hard time doing"
+
+Course: CSCI240 | Date: 2022-12-29 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"Yeh is a very solid professor. He knows what he's talking about and how to teach it. Just rewatch the recordings if you have to and take very good notes because exams are short but open-notes. The curve he gives is not that big, but you should be just fine. Oh, and don't ask this guy stupid questions, he'll put you in his stir-fry dinner lmaooo"
+
+Course: CSCI240 | Date: 2022-12-29 | Rating: 5/5 | Difficulty: 3/5 | Grade: B- | Would take again: Yes
+"Very Solid Professor, he goes through the material in a clear efficient manner and answers questions properly. He is also lenient with grading as long as you can make a good effort in class."
+
+Course: CSCI240 | Date: 2022-12-23 | Rating: 4/5 | Difficulty: 3/5 | Grade: Not sure yet | Would take again: Yes
+"Gives very clear online lectures that are viewable later. Graded only by midterm, final, project, and practice problems. If you can understand the practice material well you'll do well on midterm and final. Only problem with this class is the professor seemingly has a short temper and is very blunt which won't sit well with some people."
+
+Course: CS240 | Date: 2022-12-22 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"Records the lectures. Gives us his powerpoints. Test is multiple choice. What more do you need honestly? The project was easy too. Literally just have to put the work in. He is awesome!!"
+
+Course: CS240 | Date: 2022-11-01 | Rating: 5/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"Another solid professor for CS. 240 Summer he records all lectures. He teaches clearly and does many examples. If you pay attention in class and do the practice, you will do well in the midterm and final. The solo project isn't too hard either. The concepts can be hard to grasp at first, but he teaches it decently enough."

@@ -1,0 +1,88 @@
+Source: Cuneyt_Akinlar
+URL: https://www.ratemyprofessors.com/professor/2941773
+
+Professor: Cuneyt Akinlar
+Department: Computer Science
+School: CUNY Queens College (Queens, NY)
+Overall Rating: 4.9/5.0
+Difficulty: 2.9/5.0
+Would Take Again: 97%
+Number of Ratings: 39
+
+--- Student Reviews ---
+
+Course: CSCI111 | Date: 2026-02-19 | Rating: 5/5 | Difficulty: 1/5 | Grade: B+ | Would take again: Yes
+"Akinlar is amazing, he sets you up for success and provides you everything you need for the class. If you're already good at coding, you'd pass with a breeze. If you're a complete newbie like me, his lectures help a lot."
+
+Course: CSCI348 | Date: 2026-02-18 | Rating: 5/5 | Difficulty: 4/5 | Grade: Not sure yet | Would take again: Yes
+"Yet the best and cool prof at QC. So much love for him."
+
+Course: CSCI331 | Date: 2026-01-27 | Rating: 5/5 | Difficulty: 3/5 | Grade: C | Would take again: Yes
+"I didn't do well on the first exam and was 100% my fault, After studying a lot harder with the material he gave and also going to him for help, was able to completely turn things around."
+
+Course: CSCI331 | Date: 2026-01-09 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Despite it being his first time teaching this course at Queens College, he went above and beyond to keep the material current and industry-relevant. He clearly wants his students to succeed and is a rare, genuinely talented educator in the CS department. The class had one project and three exams, with practice problems provided weeks in advance."
+
+Course: CSCI111 | Date: 2025-12-29 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Put the effort into it, and you'll do well."
+
+Course: CSCI111 | Date: 2025-12-27 | Rating: 5/5 | Difficulty: 1/5 | Grade: A+ | Would take again: Yes
+"Great CS professor. Attend the lectures if you're new to CS--they're helpful! Otherwise, just doing some of the practice problems will help you prepare for the exams. Attend the last lecture before each exam--he tells you what specific topics are going to be tested. Put the effort into it, and the class will be easy. Don't underestimate it though!"
+
+Course: CSCI111 | Date: 2025-12-27 | Rating: 5/5 | Difficulty: 4/5 | Grade:  | Would take again: Yes
+"There is a good curve. Attendance doesn't matter. Just practice the practice problems."
+
+Course: CSCI111 | Date: 2025-12-24 | Rating: 5/5 | Difficulty: 3/5 | Grade: A+ | Would take again: Yes
+"The professor is excellent and explains the lectures very clearly. If you pay close attention during the lab, you can easily skip this class."
+
+Course: CSCI331 | Date: 2025-12-24 | Rating: 5/5 | Difficulty: 2/5 | Grade: B+ | Would take again: Yes
+"the goat, what else can i say?"
+
+Course: CSCI348 | Date: 2025-12-23 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"This professor checks all the boxes of being kind, respectful, a great teacher, and a fair grader. in most courses at this school, a professor will lack in at least one area, but Professor Akinlar does not."
+
+Course: CSCI111 | Date: 2025-12-18 | Rating: 4/5 | Difficulty: 3/5 | Grade: B- | Would take again: Yes
+"Professor Akinlar truly made a difference in my time at Queens College. His patience and clear way of breaking down difficult topics helped me understand material I once found overwhelming. His encouragement and support inspired me to keep going and stay committed to my studies. Don't hesitate to take this guy."
+
+Course: CSCI340 | Date: 2025-12-17 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Truly one of the best at QC. CS is a hard topic, you gotta put in work, but he breaks down concepts and reviews in class A LOT (he complains he goes too slow lol). Tests straight from a set of 100+ questions, just PRACTICE and it'll be FAIR! Very CARING, doesn't want anyone to fail, curves heavily. Took him again for Networks, once again the GOAT!"
+
+Course: CSCI323 | Date: 2025-11-15 | Rating: 2/5 | Difficulty: 3/5 | Grade: C+ | Would take again: N/A
+"hard class.he is kind and tries to make u understand though"
+
+Course: CSCI111 | Date: 2025-05-06 | Rating: 5/5 | Difficulty: 2/5 | Grade: A+ | Would take again: Yes
+"Professor Akinlar is a gem in Queens ! His lectures are absolutely amazing and he explains things very simply. He's very open to questions. I still talk to him 2 semesters later and he even helped me out with one of my questions this semester. My lab professor was bad but Professor Akinlar's lectures were everything I ever needed. Take him !"
+
+Course: CSCI348 | Date: 2025-02-20 | Rating: 5/5 | Difficulty: 3/5 | Grade: A- | Would take again: Yes
+"Guy below saying Akinlar isn't familiar with networks is funny. He literally wrote his P.hD on wireless routers and was a middleware Linux kernel developer and then taught in Turkey for 20 years. He is hands down the most knowledgable, patient, prepared, and competent professor in the entire CS department. Good luck getting into his class though."
+
+Course: CSCI111 | Date: 2024-12-30 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"Posts all slides, practice questions, and videos at the start of the term. Pretty good explanations and will try to explain differently if you ask for it. If you talk to your friends make sure to whisper. Tests are a lot easier than the practice questions. My lab teacher who graded my labs was Shu Yuan and she was pretty good. Easy class."
+
+Course: CSCI348 | Date: 2024-12-27 | Rating: 5/5 | Difficulty: 4/5 | Grade: A | Would take again: Yes
+"Great professor, and while networking is not his direct expertise, he presented the material in a great fashion. Never was made embarrassed for asking a question and he cares that you understand. Exams felt a touch disconnected from class, but he had large problem sets that were very close. The problem sets did feel a bit overwhelming though."
+
+Course: CSCI111 | Date: 2024-12-21 | Rating: 5/5 | Difficulty: 3/5 | Grade: B- | Would take again: Yes
+"I had the pleasure to take this class with Prof.Akinlar he is by far one of the best professors at Queens College, he gives practice problems and has his own YouTube video going in-depth on topics. if you show up to class and pay attention and do the practice problems you will be fine. I would 100% retake it with him."
+
+Course: CSCI111 | Date: 2024-12-15 | Rating: 5/5 | Difficulty: 2/5 | Grade: A- | Would take again: Yes
+"Prof.Akinlar is the best CS professor at QC. Exams 1 and 2 are easy. The final, a little tougher. He posts lectures on YouTube a week in advance. Attendance is optional. You can attend class to ask questions and hear lectures in person. There are also exam reviews. I only went to class for exam reviews and exam days. He gives a good grade curve."
+
+Course: CSCI111 | Date: 2024-11-09 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"He is probably one of the best CS professors in QC and he is very knowledgeable in this subject. He knows how to teach well and is willing to go over things people don't understand. If you study the material through his slides and lecture videos on YT, you will do fine on the exams. Makes it very easy to understand the topics and learn a lot."
+
+Course: CSCI111 | Date: 2024-11-06 | Rating: 5/5 | Difficulty: 1/5 | Grade: Not sure yet | Would take again: Yes
+"probably one of the best professors in this college, he clearly knows what he talks about, slides are online and always available for you, on top of that he has his youtube channel where he explains everything if you missed or had something unclear.
+If the lecture is over and you have a question don't hesitate to ask, he will do his best to help!!"
+
+Course: CSCI111 | Date: 2024-11-04 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"you'll be completely fine if you actually care for your work and study extensively for exams. about as easy and relaxed as an introductory college cs course gets. he's not entirely a serious guy but he knows his stuff. has lectures posted but i'd advise you come to class just for the sake of it. overall no complaints"
+
+Course: CSCI212 | Date: 2024-05-22 | Rating: 5/5 | Difficulty: 3/5 | Grade: A | Would take again: Yes
+"the best professor in the whole cs department"
+
+Course: CSCI323 | Date: 2024-05-17 | Rating: 5/5 | Difficulty: 2/5 | Grade: Not sure yet | Would take again: Yes
+"had him for CS 313. BEST teacher in the CS/Math department. explains topics well and makes the exams fair. he's not one of those teachers who will make exams hard so people will fail he actually tries as much as possible to make sure its easy enough for everyone to pass. he also gives tons of practice problems WITH answer unlike some prof"
+
+Course: CSCI323 | Date: 2024-04-18 | Rating: 5/5 | Difficulty: 4/5 | Grade: A- | Would take again: Yes
+"By far my favorite professor in the CS dept at QC. I took him for 323, and I feel like I learned more in that class than I ever did in any other coding class at QC. It was difficult, but worth it. Homework was leetcode, which we really need to break into the tech field. Amidst all the CSCI professors, this has probably helped my career the most."
